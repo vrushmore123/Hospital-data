@@ -112,6 +112,27 @@ def is_product_page(url: str, soup: BeautifulSoup) -> bool:
     return "/products/" in path or "/prod/" in path or bool(first_object(json_ld(soup), ("Product",)))
 
 
+def next_data_company(soup: BeautifulSoup) -> dict[str, str]:
+    """Read seller details TradeIndia embeds as page state (__NEXT_DATA__) rather than visible text."""
+    script = soup.find("script", id="__NEXT_DATA__", type="application/json")
+    if not script or not script.string:
+        return {}
+    try:
+        data = json.loads(script.string)
+        details = data["props"]["pageProps"]["initialState"]["product"]["PDP_page"]["PDP_page_res"]["company_details"]
+    except (json.JSONDecodeError, KeyError, TypeError):
+        return {}
+    business_type = (details.get("business_details") or {}).get("business_type") or []
+    profile_html = details.get("company_details") or ""
+    name = clean(details.get("co_name"))
+    return {
+        "company_name": name,
+        "company_location_address": clean(details.get("address")),
+        "company_profile_description": clean(BeautifulSoup(profile_html, "html.parser").get_text(" ")),
+        "manufacturer_name": name if "Manufacturer" in business_type else "",
+    }
+
+
 def extract_product(page_url: str, soup: BeautifulSoup) -> dict[str, str]:
     record = empty_record(page_url)
     objects = json_ld(soup)
@@ -130,6 +151,9 @@ def extract_product(page_url: str, soup: BeautifulSoup) -> dict[str, str]:
     record["importer_name"] = labeled_text(soup, ("Indian Importer", "Importer Name", "Importer", "Distributor"))
     brochures = links_matching(soup, page_url, ("brochure", ".pdf"))
     record["product_brochure_link"] = " | ".join(brochures)
+    for field, value in next_data_company(soup).items():
+        if value and not record[field]:
+            record[field] = value
     return record
 
 

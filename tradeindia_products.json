@@ -89,7 +89,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/kanad-vidyut-5054728/",
-      "company_address": "",
+      "company_address": "B No.6/10, Erandwane, Deenanath Mangeshkar Hospital Road, Pune, Maharashtra, 411004, India",
       "brochure_links": [],
       "machine_usage": "Kanad Vidyut - Offering low price Kanad 6p Clinical Chemistry Analyzer at 89600.00 INR in Erandwane, Pune with product details & company information.",
       "tests_performed": [],
@@ -188,7 +188,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/global-biomedicals-inc-8065088/",
-      "company_address": "",
+      "company_address": "D-758, South Part, Jagdamba Nagar-D, Girdharipura Jaipur, Rajasthan, 302021, India",
       "brochure_links": [],
       "machine_usage": "Hospital",
       "tests_performed": [],
@@ -337,96 +337,162 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/bio-chemistry-analyzer-c2505822.html",
-      "company_address": "",
+      "company_address": "Plot No. 73, Vikaspuri, Industrial Area, Ambala Cantt, Haryana, 133001, India",
       "brochure_links": [],
       "machine_usage": "Analytical Lab Instrument",
       "tests_performed": [],
       "seller_phone": ""
     },
     {
-      "url": "https://www.tradeindia.com/products/fully-automated-biochemistry-analyzer-c10598070.html",
-      "name": "Fully Automated Biochemistry Analyzer",
-      "description": "Fully Automated Biochemistry Analyzer",
-      "image": "https://cpimg.tistatic.com/10598070/b/4/Fully-Automated-Biochemistry-Analyzer..jpg",
-      "brand": "PATHIMAGE INSTRUMENTS CO.",
-      "features": [],
+      "url": "https://www.tradeindia.com/products/bio-chemistry-analyzer-c1736368.html",
+      "name": "Bio-Chemistry Analyzer",
+      "description": "Bio-Chemistry Analyzer",
+      "image": "https://cpimg.tistatic.com/01736368/b/4/Bio-Chemistry-Analyzer.jpg",
+      "brand": "AJANTA EXPORT INDUSTRIES",
+      "features": [
+        "Automatic Sample Mixing, Inbuilt Printer, Data Storage Power Supply AC 220V A+- 10%, 50Hz Accuracy C"
+      ],
       "applications": [
-        "Hospital"
+        "For Hospital and Laboratory Use"
       ],
       "related_products": [
         {
-          "name": "White Bene Sphera C61 Semi Automatic Biochemistry Analyzer",
-          "url": "https://www.tradeindia.com/products/bene-sphera-c61-semi-automatic-biochemistry-analyzer-c7839533.html"
+          "name": "Medical Microscope - Standard Steel, White Finish | Coarse & Fine Motion Sensitivity 0.002 mm, Mechanical Stage, Abbe Condenser, Dual Eye Pieces",
+          "url": "https://www.tradeindia.com/products/medical-microscope-c927191.html"
         },
         {
-          "name": "Cst-180 Automatic Biochemistry Analyzer - Accuracy: 100 %",
-          "url": "https://www.tradeindia.com/products/cst-180-automatic-biochemistry-analyzer-c11539500.html"
+          "name": "Newton'S Color Disc",
+          "url": "https://www.tradeindia.com/products/newton-s-color-disc-516262.html"
         },
         {
-          "name": "Semi Automatic Biochemistry Analyzer - CE Certified, 220V Voltage, Blue Color | 1 Year Warranty for Clinical Use",
-          "url": "https://www.tradeindia.com/products/semi-automatic-biochemistry-analyzer-for-laboratory-and-clinical-use-7576255.html"
+          "name": "B.O.D. Incubator - Anodized Aluminium & Polished Stainless Steel | Double Wall Design, Removable Perforated Shelves",
+          "url": "https://www.tradeindia.com/products/b-o-d-incubator-637751.html"
         },
         {
-          "name": "Semi Auto Biochemistry Analyzer - Plastic Material, 7-Inch TFT LCD Display, Grey Color | 8 Filters Including 700nm, Dual Mode Operation, Real-Time Reaction Graph, 2,00,000 Result Storage",
-          "url": "https://www.tradeindia.com/products/semi-auto-biochemistry-analyzer-4856083.html"
+          "name": "FLAT BOTTOM FLASK 6000 ML",
+          "url": "https://www.tradeindia.com/products/flat-bottom-flask-6000-ml-367631.html"
         },
         {
-          "name": "Fully Automatic Biochemistry Analyzer - 150 to 300 Tests Per Hour | I.S.E. Module Options Available",
-          "url": "https://www.tradeindia.com/products/fully-automatic-biochemistry-analyzer-1205665.html"
+          "name": "Optical Bench - High Grade Raw Materials, Durable and Quality Assurance",
+          "url": "https://www.tradeindia.com/products/optical-bench-666517.html"
         },
         {
-          "name": "Ge Refurbished Ct Scan Machine - Application: Hospital",
-          "url": "https://www.tradeindia.com/products/ge-refurbished-ct-scan-machine-c10598268.html"
+          "name": "Vacuum Pump - High Grade Materials, Durable & Quality Performance",
+          "url": "https://www.tradeindia.com/products/vacuum-pump-666481.html"
         },
         {
-          "name": "Mammography X-Ray Machine - Application: Hospital",
-          "url": "https://www.tradeindia.com/products/mammography-x-ray-machine-c10598228.html"
+          "name": "Amber Color, Reagent Bottles (Laboratory Glassware Equipment)",
+          "url": "https://www.tradeindia.com/products/amber-color-reagent-bottles-laboratory-glassware-equipment-c5472389.html"
         },
         {
-          "name": "300 Ma X-Ray Machine - Color: White",
-          "url": "https://www.tradeindia.com/products/300-ma-x-ray-machine-c10598224.html"
+          "name": "Laboratory Glassware Equipment",
+          "url": "https://www.tradeindia.com/products/laboratory-glassware-equipment-9589715.html"
         },
         {
-          "name": "Bpl Biphasic Defibrillator - Application: Hospital",
-          "url": "https://www.tradeindia.com/products/bpl-biphasic-defibrillator-copy-c10598248.html"
+          "name": "Laboratory Glassware Equipment",
+          "url": "https://www.tradeindia.com/products/laboratory-glassware-equipment-c416087.html"
         },
         {
-          "name": "Portable Ultrasound Machine - Application: Hospital",
-          "url": "https://www.tradeindia.com/products/portable-ultrasound-machine-c10598044.html"
+          "name": "Laboratory Glassware & Equipment",
+          "url": "https://www.tradeindia.com/products/laboratory-glassware-equipment-c605015.html"
         },
         {
-          "name": "0.3T Refurbished Hitachi VENTO LT MRI Machine - Open Design, White Color, Automatic Operation, Portable, 22 mT/m Amplitude, Warranty Included",
-          "url": "https://www.tradeindia.com/products/0-3t-refurbished-hitachi-vento-lt-mri-machine-c10598168.html"
+          "name": "Model Earth Quake - Wood Material, 75x100 cms Size | Height 127-254 mm, Weight 1-2 kg, Displays Seismic Waves and Earthquake Effects",
+          "url": "https://www.tradeindia.com/products/model-earth-quake-c848319.html"
         },
         {
-          "name": "Hf Series X-Ray Machine - Application: Nursing Home",
-          "url": "https://www.tradeindia.com/products/hf-series-x-ray-machine-c10598223.html"
+          "name": "Stainless Steel Shinnipon Operating Microscope Op-2",
+          "url": "https://www.tradeindia.com/products/shinnipon-operating-microscope-op-2-c3670972.html"
         },
         {
-          "name": "100Ma X Ray Machine Console - Application: Hospital",
-          "url": "https://www.tradeindia.com/products/100ma-x-ray-machine-console-c10598243.html"
+          "name": "Abs Plastic Matronix Digital Auto Lensmeter Slk 5400",
+          "url": "https://www.tradeindia.com/products/matronix-digital-auto-lensmeter-slk-5400-c3678055.html"
         },
         {
-          "name": "Laparoscopic Co2 Insufflator - Application: Hospital",
-          "url": "https://www.tradeindia.com/products/laparoscopic-co2-insufflator-c10598082.html"
+          "name": "Stainless Steel Lensometer",
+          "url": "https://www.tradeindia.com/products/lensometer-c1440090.html"
         },
         {
-          "name": "Cd 25 Color Doppler - Attributes: Strong & Durable",
-          "url": "https://www.tradeindia.com/products/konica-minolta-cd-25-color-doppler-c10598111.html"
+          "name": "Abs Plastic Halogen Headlight",
+          "url": "https://www.tradeindia.com/products/halogen-headlight-c1439601.html"
+        },
+        {
+          "name": "Stainless Steel Slit Lamp",
+          "url": "https://www.tradeindia.com/products/slit-lamp-c1440191.html"
+        },
+        {
+          "name": "Abs Plastic Matronix Lens Edgers",
+          "url": "https://www.tradeindia.com/products/matronix-lens-edgers-c3678009.html"
+        },
+        {
+          "name": "Stainless Steel Matronix Adjustable Trial Frame Imported",
+          "url": "https://www.tradeindia.com/products/matronix-adjustable-trial-frame-imported-c3677912.html"
+        },
+        {
+          "name": "Stainless Steel Matronix Chair Unit Optical Model",
+          "url": "https://www.tradeindia.com/products/matronix-chair-unit-optical-model-c3677938.html"
+        },
+        {
+          "name": "Stainless Steel Welch Alyn Pocketscopetm-Ophthalmoscope",
+          "url": "https://www.tradeindia.com/products/welch-alyn-pocketscopetm-ophthalmoscope-c3329139.html"
+        },
+        {
+          "name": "Touch Screen Bio Chemistry Analyzer - Precision Engineered with Premium Raw Material | Advanced Design, Exceptional Durability, Rigorous Quality Testing",
+          "url": "https://www.tradeindia.com/products/touch-screen-bio-chemistry-analyzer-1794313.html"
+        },
+        {
+          "name": "Bio-Chemistry Analyzer - Premium Quality Materials, Customizable Sizes and Dimensions",
+          "url": "https://www.tradeindia.com/products/bio-chemistry-analyzer-1794321.html"
+        },
+        {
+          "name": "Bio Chemistry Analyser - 85-264V, 10-35Â°C, 20-90% Humidity | Quantitative Clinical Bio-Chemical Analysis, Lamber-Beer Law",
+          "url": "https://www.tradeindia.com/products/bio-chemistry-analyser-c4209661.html"
+        },
+        {
+          "name": "ConXport Bio-Chemistry Analyzer",
+          "url": "https://www.tradeindia.com/products/conxport-bio-chemistry-analyzer-c7208608.html"
+        },
+        {
+          "name": "Aagappe Semi Biio Chemistry Analyzer",
+          "url": "https://www.tradeindia.com/products/aagappe-semi-biio-chemistry-analyzer-c5466455.html"
+        },
+        {
+          "name": "ConXport Touch Screen Bio Chemistry Analyzer - Plastic Stainless Steel, 430x355x340 mm, 7\" HD Touch Screen | 100-240V, Photometric Detection, Automatic Sample Loading, Onboard Reagent Cooling, Integrated Incubator, USB LAN RS232 Connectivity",
+          "url": "https://www.tradeindia.com/products/conxport-touch-screen-bio-chemistry-analyzer-c7208529.html"
+        },
+        {
+          "name": "BIO-CHEMISTRY ANALYZER",
+          "url": "https://www.tradeindia.com/products/bio-chemistry-analyzer-c2924176.html"
+        },
+        {
+          "name": "Touch Bio Chemistry Analyzer",
+          "url": "https://www.tradeindia.com/products/touch-bio-chemistry-analyzer-c4222428.html"
+        },
+        {
+          "name": "Erba Semi Bio Chemistry Analyzer",
+          "url": "https://www.tradeindia.com/products/erba-semi-bio-chemistry-analyzer-c5466456.html"
+        },
+        {
+          "name": "Hot Air Oven",
+          "url": "https://www.tradeindia.com/products/hot-air-oven-c3853103.html"
+        },
+        {
+          "name": "Laboratory Conical Flask",
+          "url": "https://www.tradeindia.com/products/laboratory-conical-flask-c7045442.html"
         }
       ],
-      "manufacturer_company": "PATHIMAGE INSTRUMENTS CO.",
+      "manufacturer_company": "AJANTA EXPORT INDUSTRIES",
       "importer_company": "",
       "country_of_manufacture": "",
-      "supplier_company": "PATHIMAGE INSTRUMENTS CO.",
-      "company_name": "PATHIMAGE INSTRUMENTS CO.",
-      "company_profile": "n this fast pace life, people have completely neglected the care, a body needs to continue working. Toiling hard days and nights for materialistic things results in fatigued body, mind and spirit. A good health is the real secret to an eternal bliss and this understanding is the real reason behind formation of Pathimage Instruments Co. Our business enterprise is formed to make hospitals, clinics, medical research centers and laboratories have an impressive line of Medical Equipment. Business Type Supplier, Trading Company Employee Count 11 Establishment 2008 Working Days Monday To Saturday GST NO 19AAKFP4862D1Z0 Payment Mode Cheque/DD, Online Payments (NEFT/RTGS/IMPS), Cash Related Products White Bene Sphera C61 Semi Automatic Biochemistry Analyzer Price: 80000 INR MOQ - 1 Piece/Pieces Ambay Enterprises Kolkata, West Bengal",
+      "supplier_company": "AJANTA EXPORT INDUSTRIES",
+      "company_name": "AJANTA EXPORT INDUSTRIES",
+      "company_profile": "Established in the year 1957 at Ambala, Haryana (India), we, “Ajanta Export Industries”, are one of the leading manufacturers, exporters & wholesalers of equipment and instruments used in physics, biology and chemistry labs. Besides, we are also meeting the demands of quality laboratory glassware. The complete product range offered by us include biological models, biological charts, dental/ENT equipments, laboratory glassware, laboratory plasticwares, scientific microscopes, physics equipments, physics apparatus, pharmacy instruments, surgical equipments, hospital furnitures, mechanics equipment, soil testing and survey items, generator equipments, muffle furnaces and many more. A Proprietorshi Business Type Exporter, Manufacturer, Distributor, Supplier, Trading Company Employee Count 10 Establishment 1964 Working Days Monday To Sunday GST NO 06DCHPK3570D1ZS Related Products Medical Microscope - Standard Steel, White Finish | Coarse & Fine Motion Sensitivity 0.002 mm, Mechanical Stage, Abbe Condenser, Dual Eye Pieces Price: 2700.0 INR MOQ - 1 Piece/Pieces Standard Steel Ambala Cantt, Haryana",
       "phone": "",
       "email": "",
-      "website": "https://www.tradeindia.com/pathimage-instruments-co-5057644/",
-      "company_address": "",
+      "website": "https://www.tradeindia.com/ajanta-export-industries-4895159/",
+      "company_address": "Building No.-4353, Science Market, Near Geeta Gopal Temple, Ambala Cantt, Haryana, 133001, India",
       "brochure_links": [],
-      "machine_usage": "Hospital",
+      "machine_usage": "For Hospital and Laboratory Use",
       "tests_performed": [],
       "seller_phone": ""
     },
@@ -531,7 +597,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/labmate-semi-automated-clinical-chemistry-analyzer-c11934353.html",
-      "company_address": "",
+      "company_address": "A2,A3, Sipcot Industrial Area, Irungattukottai, Chennai, Tamil Nadu, 602117, India",
       "brochure_links": [],
       "machine_usage": "Hospital",
       "tests_performed": [],
@@ -638,7 +704,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/raj-biosis-private-limited-5282348/",
-      "company_address": "",
+      "company_address": "F4, First Floor, Plot No. 16, D Block, Satya Colony, Tagore Nagar, On 200 Ft Bypass - Ajmer Delhi, Jaipur, Rajasthan, 302021, India",
       "brochure_links": [],
       "machine_usage": "Hospital",
       "tests_performed": [],
@@ -761,7 +827,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/weldon-biotech-india-pvt-ltd-3246874/",
-      "company_address": "",
+      "company_address": "B No - 32-E, 1st Floor, Patparganj, Opp. Una Enclave, Mayur Vihar, Phase-1, Delhi, Delhi, 110091, India",
       "brochure_links": [],
       "machine_usage": "Commercial",
       "tests_performed": [],
@@ -872,9 +938,96 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/microlab-instruments-private-limited-1917606/",
-      "company_address": "",
+      "company_address": "327, Survey No 213, Dantali Industrial Estate, Gota- Vadsar Road, Dantali Ahmedabad, Gujarat, 382721, India",
       "brochure_links": [],
       "machine_usage": "N/A",
+      "tests_performed": [],
+      "seller_phone": ""
+    },
+    {
+      "url": "https://www.tradeindia.com/products/fully-automated-biochemistry-analyzer-c10598070.html",
+      "name": "Fully Automated Biochemistry Analyzer",
+      "description": "Fully Automated Biochemistry Analyzer",
+      "image": "https://cpimg.tistatic.com/10598070/b/4/Fully-Automated-Biochemistry-Analyzer..jpg",
+      "brand": "PATHIMAGE INSTRUMENTS CO.",
+      "features": [],
+      "applications": [
+        "Hospital"
+      ],
+      "related_products": [
+        {
+          "name": "White Bene Sphera C61 Semi Automatic Biochemistry Analyzer",
+          "url": "https://www.tradeindia.com/products/bene-sphera-c61-semi-automatic-biochemistry-analyzer-c7839533.html"
+        },
+        {
+          "name": "Cst-180 Automatic Biochemistry Analyzer - Accuracy: 100 %",
+          "url": "https://www.tradeindia.com/products/cst-180-automatic-biochemistry-analyzer-c11539500.html"
+        },
+        {
+          "name": "Semi Automatic Biochemistry Analyzer - CE Certified, 220V Voltage, Blue Color | 1 Year Warranty for Clinical Use",
+          "url": "https://www.tradeindia.com/products/semi-automatic-biochemistry-analyzer-for-laboratory-and-clinical-use-7576255.html"
+        },
+        {
+          "name": "Semi Auto Biochemistry Analyzer - Plastic Material, 7-Inch TFT LCD Display, Grey Color | 8 Filters Including 700nm, Dual Mode Operation, Real-Time Reaction Graph, 2,00,000 Result Storage",
+          "url": "https://www.tradeindia.com/products/semi-auto-biochemistry-analyzer-4856083.html"
+        },
+        {
+          "name": "Fully Automatic Biochemistry Analyzer - 150 to 300 Tests Per Hour | I.S.E. Module Options Available",
+          "url": "https://www.tradeindia.com/products/fully-automatic-biochemistry-analyzer-1205665.html"
+        },
+        {
+          "name": "Ge Refurbished Ct Scan Machine - Application: Hospital",
+          "url": "https://www.tradeindia.com/products/ge-refurbished-ct-scan-machine-c10598268.html"
+        },
+        {
+          "name": "Mammography X-Ray Machine - Application: Hospital",
+          "url": "https://www.tradeindia.com/products/mammography-x-ray-machine-c10598228.html"
+        },
+        {
+          "name": "300 Ma X-Ray Machine - Color: White",
+          "url": "https://www.tradeindia.com/products/300-ma-x-ray-machine-c10598224.html"
+        },
+        {
+          "name": "Bpl Biphasic Defibrillator - Application: Hospital",
+          "url": "https://www.tradeindia.com/products/bpl-biphasic-defibrillator-copy-c10598248.html"
+        },
+        {
+          "name": "Portable Ultrasound Machine - Application: Hospital",
+          "url": "https://www.tradeindia.com/products/portable-ultrasound-machine-c10598044.html"
+        },
+        {
+          "name": "0.3T Refurbished Hitachi VENTO LT MRI Machine - Open Design, White Color, Automatic Operation, Portable, 22 mT/m Amplitude, Warranty Included",
+          "url": "https://www.tradeindia.com/products/0-3t-refurbished-hitachi-vento-lt-mri-machine-c10598168.html"
+        },
+        {
+          "name": "Hf Series X-Ray Machine - Application: Nursing Home",
+          "url": "https://www.tradeindia.com/products/hf-series-x-ray-machine-c10598223.html"
+        },
+        {
+          "name": "100Ma X Ray Machine Console - Application: Hospital",
+          "url": "https://www.tradeindia.com/products/100ma-x-ray-machine-console-c10598243.html"
+        },
+        {
+          "name": "Laparoscopic Co2 Insufflator - Application: Hospital",
+          "url": "https://www.tradeindia.com/products/laparoscopic-co2-insufflator-c10598082.html"
+        },
+        {
+          "name": "Cd 25 Color Doppler - Attributes: Strong & Durable",
+          "url": "https://www.tradeindia.com/products/konica-minolta-cd-25-color-doppler-c10598111.html"
+        }
+      ],
+      "manufacturer_company": "PATHIMAGE INSTRUMENTS CO.",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "PATHIMAGE INSTRUMENTS CO.",
+      "company_name": "PATHIMAGE INSTRUMENTS CO.",
+      "company_profile": "n this fast pace life, people have completely neglected the care, a body needs to continue working. Toiling hard days and nights for materialistic things results in fatigued body, mind and spirit. A good health is the real secret to an eternal bliss and this understanding is the real reason behind formation of Pathimage Instruments Co. Our business enterprise is formed to make hospitals, clinics, medical research centers and laboratories have an impressive line of Medical Equipment. Business Type Supplier, Trading Company Employee Count 11 Establishment 2008 Working Days Monday To Saturday GST NO 19AAKFP4862D1Z0 Payment Mode Cheque/DD, Online Payments (NEFT/RTGS/IMPS), Cash Related Products White Bene Sphera C61 Semi Automatic Biochemistry Analyzer Price: 80000 INR MOQ - 1 Piece/Pieces Ambay Enterprises Kolkata, West Bengal",
+      "phone": "",
+      "email": "",
+      "website": "https://www.tradeindia.com/pathimage-instruments-co-5057644/",
+      "company_address": "No. - 105/12, Dum Dum Road, Shil Bagan, Kolkata, West Bengal, 700074, India",
+      "brochure_links": [],
+      "machine_usage": "Hospital",
       "tests_performed": [],
       "seller_phone": ""
     },
@@ -979,7 +1132,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/aistech-global-private-limited-40038445/",
-      "company_address": "",
+      "company_address": "313/7, Nabapally, Sector- 4, Salt Lake, Kolkata, West Bengal, 700105, India",
       "brochure_links": [],
       "machine_usage": "ANLYZER",
       "tests_performed": [],
@@ -1124,7 +1277,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/sunshine-scientific-equipments-12356009/",
-      "company_address": "",
+      "company_address": "Office No. 303, Third Floor, D-288-89/10 Wadhwa Complex, Vikas Marg, Laxmi Nagar, Delhi, Delhi, 110092, India",
       "brochure_links": [],
       "machine_usage": "Clinical biochemistry testing in labs and hospitals. Provides quantitative analysis of various blood and serum components.",
       "tests_performed": [
@@ -1280,7 +1433,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/conxport-clinical-middle-ear-analyzer-r-36-m-c7243895.html",
-      "company_address": "",
+      "company_address": "B No. 4353, Main Road, Near Geeta Gopal Temple, Ambala Cantt, Haryana, 133001, India",
       "brochure_links": [],
       "machine_usage": "Clinical diagnosis and measurement of middle ear conditions",
       "tests_performed": [],
@@ -1385,7 +1538,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/uriscan-pro-urine-chemistry-analyzer-c10651715.html",
-      "company_address": "",
+      "company_address": "B No C-39, Chandra Puri, Mathura, Uttar Pradesh, 281001, India",
       "brochure_links": [],
       "machine_usage": "Biosolution Technologies - Offering low price Uriscan Pro Urine Chemistry Analyzer - Color: Different Availabe - Color: Different Availabe in Chandra Puri, Mathura with product details & company information.",
       "tests_performed": [],
@@ -1476,7 +1629,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/inorbvict-healthcare-india-pvt-ltd-8372692/",
-      "company_address": "",
+      "company_address": "Office No.821 , 8 Floor, Solitaire Business Hub, Balewadi High St, Gaon, Baner, Pune, Maharashtra, 411027, India",
       "brochure_links": [],
       "machine_usage": "Routine clinical chemistry testing in medium to high-throughput laboratories",
       "tests_performed": [
@@ -1575,7 +1728,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/diagnosol-healthtech-35405475/",
-      "company_address": "",
+      "company_address": "T-134, Basemate, Ganesh Nagar, Niwaru Road, Jhotwara, Jaipur, Rajasthan, 302012, India",
       "brochure_links": [],
       "machine_usage": "Erba Em200 Fully Automated Biochemistry Analyzer",
       "tests_performed": [],
@@ -1722,165 +1875,12 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/ambay-enterprises-23586489/",
-      "company_address": "",
+      "company_address": "No. 89, Netaji Subhas Road, 2nd Floor, Room No. 13, Kolkata, West Bengal, 700001, India",
       "brochure_links": [],
       "machine_usage": "Diagnostic Equipment",
       "tests_performed": [
         "Diagnostic Equipment"
       ],
-      "seller_phone": ""
-    },
-    {
-      "url": "https://www.tradeindia.com/products/bio-chemistry-analyzer-c1736368.html",
-      "name": "Bio-Chemistry Analyzer",
-      "description": "Bio-Chemistry Analyzer",
-      "image": "https://cpimg.tistatic.com/01736368/b/4/Bio-Chemistry-Analyzer.jpg",
-      "brand": "AJANTA EXPORT INDUSTRIES",
-      "features": [
-        "Automatic Sample Mixing, Inbuilt Printer, Data Storage Power Supply AC 220V A+- 10%, 50Hz Accuracy C"
-      ],
-      "applications": [
-        "For Hospital and Laboratory Use"
-      ],
-      "related_products": [
-        {
-          "name": "Medical Microscope - Standard Steel, White Finish | Coarse & Fine Motion Sensitivity 0.002 mm, Mechanical Stage, Abbe Condenser, Dual Eye Pieces",
-          "url": "https://www.tradeindia.com/products/medical-microscope-c927191.html"
-        },
-        {
-          "name": "Newton'S Color Disc",
-          "url": "https://www.tradeindia.com/products/newton-s-color-disc-516262.html"
-        },
-        {
-          "name": "B.O.D. Incubator - Anodized Aluminium & Polished Stainless Steel | Double Wall Design, Removable Perforated Shelves",
-          "url": "https://www.tradeindia.com/products/b-o-d-incubator-637751.html"
-        },
-        {
-          "name": "FLAT BOTTOM FLASK 6000 ML",
-          "url": "https://www.tradeindia.com/products/flat-bottom-flask-6000-ml-367631.html"
-        },
-        {
-          "name": "Optical Bench - High Grade Raw Materials, Durable and Quality Assurance",
-          "url": "https://www.tradeindia.com/products/optical-bench-666517.html"
-        },
-        {
-          "name": "Vacuum Pump - High Grade Materials, Durable & Quality Performance",
-          "url": "https://www.tradeindia.com/products/vacuum-pump-666481.html"
-        },
-        {
-          "name": "Amber Color, Reagent Bottles (Laboratory Glassware Equipment)",
-          "url": "https://www.tradeindia.com/products/amber-color-reagent-bottles-laboratory-glassware-equipment-c5472389.html"
-        },
-        {
-          "name": "Laboratory Glassware Equipment",
-          "url": "https://www.tradeindia.com/products/laboratory-glassware-equipment-9589715.html"
-        },
-        {
-          "name": "Laboratory Glassware Equipment",
-          "url": "https://www.tradeindia.com/products/laboratory-glassware-equipment-c416087.html"
-        },
-        {
-          "name": "Laboratory Glassware & Equipment",
-          "url": "https://www.tradeindia.com/products/laboratory-glassware-equipment-c605015.html"
-        },
-        {
-          "name": "Model Earth Quake - Wood Material, 75x100 cms Size | Height 127-254 mm, Weight 1-2 kg, Displays Seismic Waves and Earthquake Effects",
-          "url": "https://www.tradeindia.com/products/model-earth-quake-c848319.html"
-        },
-        {
-          "name": "Stainless Steel Shinnipon Operating Microscope Op-2",
-          "url": "https://www.tradeindia.com/products/shinnipon-operating-microscope-op-2-c3670972.html"
-        },
-        {
-          "name": "Abs Plastic Matronix Digital Auto Lensmeter Slk 5400",
-          "url": "https://www.tradeindia.com/products/matronix-digital-auto-lensmeter-slk-5400-c3678055.html"
-        },
-        {
-          "name": "Stainless Steel Lensometer",
-          "url": "https://www.tradeindia.com/products/lensometer-c1440090.html"
-        },
-        {
-          "name": "Abs Plastic Halogen Headlight",
-          "url": "https://www.tradeindia.com/products/halogen-headlight-c1439601.html"
-        },
-        {
-          "name": "Stainless Steel Slit Lamp",
-          "url": "https://www.tradeindia.com/products/slit-lamp-c1440191.html"
-        },
-        {
-          "name": "Abs Plastic Matronix Lens Edgers",
-          "url": "https://www.tradeindia.com/products/matronix-lens-edgers-c3678009.html"
-        },
-        {
-          "name": "Stainless Steel Matronix Adjustable Trial Frame Imported",
-          "url": "https://www.tradeindia.com/products/matronix-adjustable-trial-frame-imported-c3677912.html"
-        },
-        {
-          "name": "Stainless Steel Matronix Chair Unit Optical Model",
-          "url": "https://www.tradeindia.com/products/matronix-chair-unit-optical-model-c3677938.html"
-        },
-        {
-          "name": "Stainless Steel Welch Alyn Pocketscopetm-Ophthalmoscope",
-          "url": "https://www.tradeindia.com/products/welch-alyn-pocketscopetm-ophthalmoscope-c3329139.html"
-        },
-        {
-          "name": "Touch Screen Bio Chemistry Analyzer - Precision Engineered with Premium Raw Material | Advanced Design, Exceptional Durability, Rigorous Quality Testing",
-          "url": "https://www.tradeindia.com/products/touch-screen-bio-chemistry-analyzer-1794313.html"
-        },
-        {
-          "name": "Bio-Chemistry Analyzer - Premium Quality Materials, Customizable Sizes and Dimensions",
-          "url": "https://www.tradeindia.com/products/bio-chemistry-analyzer-1794321.html"
-        },
-        {
-          "name": "Bio Chemistry Analyser - 85-264V, 10-35Â°C, 20-90% Humidity | Quantitative Clinical Bio-Chemical Analysis, Lamber-Beer Law",
-          "url": "https://www.tradeindia.com/products/bio-chemistry-analyser-c4209661.html"
-        },
-        {
-          "name": "ConXport Bio-Chemistry Analyzer",
-          "url": "https://www.tradeindia.com/products/conxport-bio-chemistry-analyzer-c7208608.html"
-        },
-        {
-          "name": "Aagappe Semi Biio Chemistry Analyzer",
-          "url": "https://www.tradeindia.com/products/aagappe-semi-biio-chemistry-analyzer-c5466455.html"
-        },
-        {
-          "name": "ConXport Touch Screen Bio Chemistry Analyzer - Plastic Stainless Steel, 430x355x340 mm, 7\" HD Touch Screen | 100-240V, Photometric Detection, Automatic Sample Loading, Onboard Reagent Cooling, Integrated Incubator, USB LAN RS232 Connectivity",
-          "url": "https://www.tradeindia.com/products/conxport-touch-screen-bio-chemistry-analyzer-c7208529.html"
-        },
-        {
-          "name": "BIO-CHEMISTRY ANALYZER",
-          "url": "https://www.tradeindia.com/products/bio-chemistry-analyzer-c2924176.html"
-        },
-        {
-          "name": "Touch Bio Chemistry Analyzer",
-          "url": "https://www.tradeindia.com/products/touch-bio-chemistry-analyzer-c4222428.html"
-        },
-        {
-          "name": "Erba Semi Bio Chemistry Analyzer",
-          "url": "https://www.tradeindia.com/products/erba-semi-bio-chemistry-analyzer-c5466456.html"
-        },
-        {
-          "name": "Hot Air Oven",
-          "url": "https://www.tradeindia.com/products/hot-air-oven-c3853103.html"
-        },
-        {
-          "name": "Laboratory Conical Flask",
-          "url": "https://www.tradeindia.com/products/laboratory-conical-flask-c7045442.html"
-        }
-      ],
-      "manufacturer_company": "AJANTA EXPORT INDUSTRIES",
-      "importer_company": "",
-      "country_of_manufacture": "",
-      "supplier_company": "AJANTA EXPORT INDUSTRIES",
-      "company_name": "AJANTA EXPORT INDUSTRIES",
-      "company_profile": "Established in the year 1957 at Ambala, Haryana (India), we, “Ajanta Export Industries”, are one of the leading manufacturers, exporters & wholesalers of equipment and instruments used in physics, biology and chemistry labs. Besides, we are also meeting the demands of quality laboratory glassware. The complete product range offered by us include biological models, biological charts, dental/ENT equipments, laboratory glassware, laboratory plasticwares, scientific microscopes, physics equipments, physics apparatus, pharmacy instruments, surgical equipments, hospital furnitures, mechanics equipment, soil testing and survey items, generator equipments, muffle furnaces and many more. A Proprietorshi Business Type Exporter, Manufacturer, Distributor, Supplier, Trading Company Employee Count 10 Establishment 1964 Working Days Monday To Sunday GST NO 06DCHPK3570D1ZS Related Products Medical Microscope - Standard Steel, White Finish | Coarse & Fine Motion Sensitivity 0.002 mm, Mechanical Stage, Abbe Condenser, Dual Eye Pieces Price: 2700.0 INR MOQ - 1 Piece/Pieces Standard Steel Ambala Cantt, Haryana",
-      "phone": "",
-      "email": "",
-      "website": "https://www.tradeindia.com/ajanta-export-industries-4895159/",
-      "company_address": "",
-      "brochure_links": [],
-      "machine_usage": "For Hospital and Laboratory Use",
-      "tests_performed": [],
       "seller_phone": ""
     },
     {
@@ -1994,7 +1994,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/labman-scientific-instruments-pvt-ltd-81508453/",
-      "company_address": "",
+      "company_address": "No 2, Abirami Avenue, 12th Street, Kodungaiyur, Kkd Nagar, Chennai, Tamil Nadu, 600118, India",
       "brochure_links": [],
       "machine_usage": "BCA80 Bio Chemistry Analyzer",
       "tests_performed": [],
@@ -2083,7 +2083,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/mediray-healthcare-1528634/",
-      "company_address": "",
+      "company_address": "Mediray Healthcare, Link Roan Near Car Market, Faridabad, Haryana, 121008, India",
       "brochure_links": [],
       "machine_usage": "Mediray- Semi Auto Biochemistry Analyzer",
       "tests_performed": [],
@@ -2182,7 +2182,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/clover-a1c-hba1c-analyzer-c8467399.html",
-      "company_address": "",
+      "company_address": "Corporate Office: - 412, Suncity Trade Tower, Sector 21, Gurugram, Haryana 122016 Gurugram, Haryana, 122016, India",
       "brochure_links": [],
       "machine_usage": "Industrial,Hospital",
       "tests_performed": [],
@@ -2275,7 +2275,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/labchrom-scientific-llp-7424735/",
-      "company_address": "",
+      "company_address": "Office No. 253, 2nd Floor, Udyog Bhavan, Sonawala Road, Goregaon East, Mumbai, Maharashtra, 400063, India",
       "brochure_links": [],
       "machine_usage": "Water Analysis, Clinical and Industrial Laboratories",
       "tests_performed": [
@@ -2396,7 +2396,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/drx-laboratories-india-inc-34596077/",
-      "company_address": "",
+      "company_address": "201, 2nd Floor, M4 - Block, Gupta Plaza, Opp. Kerala Public School, Vikas Puri, New Delhi, Delhi, 110018, India",
       "brochure_links": [],
       "machine_usage": "Hospital",
       "tests_performed": [],
@@ -2534,7 +2534,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/esel-international-10434316/",
-      "company_address": "",
+      "company_address": "62, Azad Nagar, RamPur Chowk, P.O Industrial Area, Ambala Cantt, Haryana, 133001, India",
       "brochure_links": [],
       "machine_usage": "Laboratory",
       "tests_performed": [],
@@ -2655,7 +2655,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/biogenix-inc-pvt-ltd-9029995/",
-      "company_address": "",
+      "company_address": "B19/A , S.I.L Ancillary Estate Amausi Industrial Area, Nadarganj, Lucknow, Uttar Pradesh, 226008, India",
       "brochure_links": [],
       "machine_usage": "Fully Automatic CLIA Analyzer (BI-2000)",
       "tests_performed": [],
@@ -2802,7 +2802,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/bio-chemistry-analyzer-c2951949.html",
-      "company_address": "",
+      "company_address": "Factory: 70, Edutek House, Main Road Vikaspuri, Industrial Area, Ambala Cantt, Haryana, 133006, India",
       "brochure_links": [],
       "machine_usage": "Hospitals, Laboratories, Clinics, Research Institutes",
       "tests_performed": [],
@@ -2901,7 +2901,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/marken-healthtech-limited-32168396/",
-      "company_address": "",
+      "company_address": "Street No.17, Shed No.1, Plot No.93/1, Satpur, Nashik, Maharashtra, 422007, India",
       "brochure_links": [],
       "machine_usage": "Hospital, Diagnostic Laboratory, Pathology Lab",
       "tests_performed": [
@@ -3022,7 +3022,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/lifeline-distribution-35105571/",
-      "company_address": "",
+      "company_address": "Owais Abad Near - Kargil House, Bemina, Srinagar, Jammu and Kashmir, 190018, India",
       "brochure_links": [],
       "machine_usage": "Laboratory",
       "tests_performed": [],
@@ -3108,16 +3108,16 @@
           "url": "https://www.tradeindia.com/products/hospital-phototherapy-machine-5539798.html"
         }
       ],
-      "manufacturer_company": "",
+      "manufacturer_company": "BENAKA HEALTH CARE",
       "importer_company": "",
       "country_of_manufacture": "",
-      "supplier_company": "",
-      "company_name": "",
+      "supplier_company": "BENAKA HEALTH CARE",
+      "company_name": "BENAKA HEALTH CARE",
       "company_profile": "Know Us Benaka Health Care (A Division Of Benaka Business Consultancy) is a reputed name in the sector of Syringe Pump, Digital X Ray System, Radiation Protection Products, Ultrasound System, Cardiology System, ECG Machine, Critical Care Product, Patient Monitor, etc. Committed to provide innovative, branded and cost-effective products, we have been offering the best solutions to the medical industry. We have developed a business alliance with the major names of the industry to provide clients with the matchless range. With prompt sales, customer service and service efficiency, we have become the icon of trust for the patrons. Incepted in the year of 2009, we Business Type Manufacturer, Service Provider, Supplier, Trading Company Employee Count 25 Establishment 2009 Working Days Monday To Sunday GST NO 29ADHPC5601P1ZC Payment Mode Online Payments (NEFT/RTGS/IMPS), Cheque/DD, Wallet & UPI Related Products Medical Machinery Price: 5000 INR MOQ - 100 Piece/Pieces Naturoinfra Private Limited Indore, Madhya Pradesh",
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/clover-a1c-hba1c-analyzer-c9513981.html",
-      "company_address": "",
+      "company_address": "B No. 36, 6th Cross, 10th Main, 4th Phase, BSK 3rd Stage, Bengaluru, Karnataka, 560085, India",
       "brochure_links": [],
       "machine_usage": "Diagnostics for Glycated Hemoglobin (HbA1c)",
       "tests_performed": [
@@ -3236,7 +3236,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/semi-automatic-analyzer-c11541591.html",
-      "company_address": "",
+      "company_address": "2/283-1, First Floor, Brindhavan Nagar, Bodipalayam, Seerapalayam, Coimbatore, Tamil Nadu, 641006, India",
       "brochure_links": [],
       "machine_usage": "Laboratory",
       "tests_performed": [],
@@ -3335,7 +3335,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/clinical-chemistry-analyzer-c11977827.html",
-      "company_address": "",
+      "company_address": "262- N Block, Khidwai Nagar, Kanpur, Uttar Pradesh, 271302, India",
       "brochure_links": [],
       "machine_usage": "Biochemical Analysis in Medical Laboratories",
       "tests_performed": [
@@ -3428,7 +3428,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/royal-diagnostic-surgical-29441814/",
-      "company_address": "",
+      "company_address": "Shop No. - A - 165, Ground Floor, Rama Park, Uttam Nagar, Near Dwarka More Station Pillar No. -763, New Delhi, Delhi, 110059, India",
       "brochure_links": [],
       "machine_usage": "Hospital",
       "tests_performed": [],
@@ -3552,16 +3552,16 @@
           "url": "https://www.tradeindia.com/products/labcare-export-digital-dissolved-oxygen-meter-c6741226.html"
         }
       ],
-      "manufacturer_company": "",
+      "manufacturer_company": "LABCARE INSTRUMENTS & INTERNATIONAL SERVICES",
       "importer_company": "",
       "country_of_manufacture": "",
-      "supplier_company": "",
-      "company_name": "",
+      "supplier_company": "LABCARE INSTRUMENTS & INTERNATIONAL SERVICES",
+      "company_name": "LABCARE INSTRUMENTS & INTERNATIONAL SERVICES",
       "company_profile": "LABCARE INSTRUMENTS & INTERNATIONAL SERVICES , Established in 1986 at Ambala Cantt in Haryana, is a leading service provider of Scientific Instruments in India. LABCARE INSTRUMENTS & INTERNATIONAL SERVICES is one of Trade India's verified and trusted names for listed services. With extensive experience in the field of Scientific Instruments, LABCARE INSTRUMENTS & INTERNATIONAL SERVICES has made a reputed name for itself in the market with satisfactory Double Beam UV VIS Spectrophotometer, 2 Jar Digital Programmable Disintegration Apparatus, For Industrial, ABS Bedside locker, etc. Focusing on a customer-centric approach, LABCARE INSTRUMENTS & INTERNATIONAL SERVICES has a pan-India presence and caters to a huge consumer base throughout the country. Get Scientific Instruments from LABCARE INSTRUMENTS & INTERNATIONAL SERVICES at Trade India quality-assured services. Business Type Exporter, Importer, Manufacturer, Service Provider, Distributor, Supplier, Trading Company Employee Count 45 Establishment 1986 Working Days Monday To Sunday GST NO 06DCLPA2906P1ZF Certification ISO 9001 : 2O15 CERTIFIED CO. CE CERTIFIED Related Products Digital Thermometers - Color: Blue Price: 500.0 INR MOQ - 10 Piece/Pieces Micro Teknik Ambala Cantt, Haryana",
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/labcare-export-auto-biochemistry-analyzer-c6741418.html",
-      "company_address": "",
+      "company_address": "Plant No 18, Near Shiv Mandir, Behind B D Flour Mill, Pragati Vihar, Ambala Cantt, Haryana, 133001, India",
       "brochure_links": [],
       "machine_usage": "Hospital, Clinic, Laboratory",
       "tests_performed": [],
@@ -3678,7 +3678,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/surgical-wholesale-mart-private-limited-39977655/",
-      "company_address": "",
+      "company_address": "Kh 75/02, Ground Floor, Sri Sai Complex, Kapashera Border, New Delhi, Delhi, 110037, India",
       "brochure_links": [],
       "machine_usage": "Hematology Analyzer",
       "tests_performed": [],
@@ -3780,16 +3780,16 @@
           "url": "https://www.tradeindia.com/products/mini-urine-analyzer-for-medical-use-139649.html"
         }
       ],
-      "manufacturer_company": "",
+      "manufacturer_company": "Saaskin Corporation Private Limited.",
       "importer_company": "",
       "country_of_manufacture": "",
-      "supplier_company": "",
-      "company_name": "",
+      "supplier_company": "Saaskin Corporation Private Limited.",
+      "company_name": "Saaskin Corporation Private Limited.",
       "company_profile": "SAASKIN Corporation Private Limited is a Healthcare and Life Sciences Company that provides Manufacturing , Distribution and Consulting to different markets across globe. Business Type Exporter, Manufacturer, Distributor, Supplier, Trading Company, Wholesaler, Dealer Employee Count 10 Establishment 2011 Working Days Monday To Saturday GST NO 33AAZCS6003M1ZU Payment Mode Telegraphic Transfer (T/T) Certification IS0 9001 : 2015 Related Products Mission U120 Urine Analyzer - Manual Operation, White Color | 120 Tests Per Hour, 2000 Results Memory, Accurate Real-Time Results Price: 30000 INR MOQ - 2 Unit/Units Saaskin Corporation Private Limited. Chennai, Tamil Nadu",
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/acon-mission-u500-urine-analyzer-c9992154.html",
-      "company_address": "",
+      "company_address": "275/184, 1st Floor, Office No: 2, Golden Enclave, Periyar E V R Salai, P.H. Road, Kilpauk, Chennai, Tamil Nadu, 600010, India",
       "brochure_links": [],
       "machine_usage": "Clinical Laboratory, Hospital, Diagnostic Center",
       "tests_performed": [
@@ -3904,7 +3904,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/anvi-diagnostics-61709470/",
-      "company_address": "",
+      "company_address": "No.3, Sai Prasad soc, Singh Est, Rd No 2, Basra Film Studio, Kandivali (E), Mumbai, Maharashtra, 400101, India",
       "brochure_links": [],
       "machine_usage": "Clinical Laboratory, Diagnostic Centers",
       "tests_performed": [
@@ -4008,7 +4008,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/pc-enterprises-149880218/",
-      "company_address": "",
+      "company_address": "Third Floor, WZ-26, Room No. 50, Village Nangli Zalib, B-1 Janak Puri, New Delhi, Delhi, 110058, India",
       "brochure_links": [],
       "machine_usage": "Laboratory",
       "tests_performed": [],
@@ -4129,7 +4129,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/vector-v-chem-next-programmable-biochemistry-analyzer-c11872770.html",
-      "company_address": "",
+      "company_address": "Plot No. 24 Shivdashpura, Baullia Lahartara, Varanasi, Uttar Pradesh, 221002, India",
       "brochure_links": [],
       "machine_usage": "Laboratories",
       "tests_performed": [],
@@ -4240,7 +4240,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/medica-solutions-26010478/",
-      "company_address": "",
+      "company_address": "E-1018, Saraswati Vihar, Delhi, Delhi, 110034, India",
       "brochure_links": [],
       "machine_usage": "Hospital",
       "tests_performed": [],
@@ -4362,7 +4362,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/unikon-gh-hba1c-analyzer-c12491593.html",
-      "company_address": "",
+      "company_address": "Gt Road, Mahesh Pur Industrial Estate, Varanasi, Uttar Pradesh, 221106, India",
       "brochure_links": [],
       "machine_usage": "Clinical Laboratory, HbA1c Testing",
       "tests_performed": [
@@ -4429,7 +4429,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/majumder-enterprises-27873101/",
-      "company_address": "",
+      "company_address": "156/33, Bt Road, Dunlop, Northarn Park Road, Near Sonali Cinema Hall, Kolkata, West Bengal, 700108, India",
       "brochure_links": [],
       "machine_usage": "Clinical diagnostics",
       "tests_performed": [
@@ -4528,7 +4528,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/testcare-instruments-90878291/",
-      "company_address": "",
+      "company_address": "424/1/93/1-1, Totadamane, Antony street, Mylasandra, Bengaluru, Karnataka, 560068, India",
       "brochure_links": [],
       "machine_usage": "Clinical Laboratory, Hospital, Research",
       "tests_performed": [],
@@ -4649,7 +4649,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/darshi-biomedical-5228411/",
-      "company_address": "",
+      "company_address": "5, Laxminagar Corner, Diagnostic Vally, Nana Mava Main Road, Rajkot, Gujarat, 360004, India",
       "brochure_links": [],
       "machine_usage": "Laboratory",
       "tests_performed": [],
@@ -4770,7 +4770,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/bio-chemistry-analyzer-c2393205.html",
-      "company_address": "",
+      "company_address": "B.O : 5430/3, Anaj Mandi, Science Market, Near Nigar Cinema, R.O : 102-B Ram Nagar, Ambala Cantt, Haryana, 133001, India",
       "brochure_links": [],
       "machine_usage": "Kfw Scientific Industries - Offering low price Bio-chemistry Analyzer - Abs Plastic, Stainless Steel, 860x600x420 Mm, Fully Automatic, 300 Tests/hour, 7-inch Tft Touchscreen, Â¤2% Cv Accuracy in Science Market, Ambala Cantt with product details & company information.",
       "tests_performed": [],
@@ -4873,7 +4873,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/biotex-life-science-5237582/",
-      "company_address": "",
+      "company_address": "Bhukhand No 48, Khasra No 3, Vikas Nagar, Lucknow, Uttar Pradesh, 226022, India",
       "brochure_links": [],
       "machine_usage": "Hospital",
       "tests_performed": [],
@@ -4981,16 +4981,16 @@
           "url": "https://www.tradeindia.com/products/kanad-8mpc-plus-clinical-chemistry-analyzer-6521743.html"
         }
       ],
-      "manufacturer_company": "",
+      "manufacturer_company": "River View Bio Chemical",
       "importer_company": "",
       "country_of_manufacture": "",
-      "supplier_company": "",
-      "company_name": "",
+      "supplier_company": "River View Bio Chemical",
+      "company_name": "River View Bio Chemical",
       "company_profile": "Welcome to River View Bio Chemical, where precision diagnostics meet dependable supply. As a trusted supplier and trader in the field of laboratory and healthcare solutions, we are committed to empowering diagnostic centers, hospitals, and pathology labs with reliable, high-quality products that support accurate patient care.Our comprehensive product range includes Hematology Analyzers, Edge Lyse, Analyzer Quality Control Kit, Rinse Cleanzer and many more, each carefully sourced to meet the diverse needs of modern diagnostic laboratories. From accurate blood cell analysis to optimal cell lysis, quality control, and analyzer maintenance, our range covers the essential requirements of a well-equipped, efficient laboratory setup.At River View Bio Chemical, we understand that in healthcare, precision is not just important it is essential. That is why we prioritize sourcing q Business Type Supplier, Trading Company Employee Count 6 Establishment 2020 Working Days Monday To Sunday GST NO 21FTKPS4474J1Z6 Payment Mode Online Payments (NEFT/RTGS/IMPS), Cheque/DD, Cash Related Products Clinical Chemistry Analyzer MOQ - 1 Unit/Units River View Bio Chemical Cuttack, Odisha",
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/clinical-chemistry-analyzer-c13295107.html",
-      "company_address": "",
+      "company_address": "Ground Floor, Plot No-161/1751, Khata No-527/356, Unit No-38, Arundoya Nagar, Badambadi, Cuttack, Odisha, 753012, India",
       "brochure_links": [],
       "machine_usage": "Biochemistry and pathology laboratory chemical analysis",
       "tests_performed": [
@@ -5114,7 +5114,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/truvic-healthcare-40589588/",
-      "company_address": "",
+      "company_address": "Flat No 301, 2nd Floor, Second Floor, 1624/a, Lav Kush Purma, Old Shivli Road, Kalyanpur, Kanpur, Uttar Pradesh, 208017, India",
       "brochure_links": [],
       "machine_usage": "Clinical",
       "tests_performed": [],
@@ -5215,7 +5215,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/psj-biochem-diagnostic-pvt-ltd-2376460/",
-      "company_address": "",
+      "company_address": "Khasra No.-1109, Village Rithala, Delhi, Delhi, 110085, India",
       "brochure_links": [],
       "machine_usage": "C-71 Clinical Chemistry Analyzer",
       "tests_performed": [],
@@ -5331,16 +5331,16 @@
           "url": "https://www.tradeindia.com/products/stable-performance-biochemistry-analyzer-85757.html"
         }
       ],
-      "manufacturer_company": "",
+      "manufacturer_company": "Martand Medical Services",
       "importer_company": "",
       "country_of_manufacture": "",
-      "supplier_company": "",
-      "company_name": "",
+      "supplier_company": "Martand Medical Services",
+      "company_name": "Martand Medical Services",
       "company_profile": "Martand Medical Services is a renowned supplier of haematology analyser and other biochemistry analyser and laboratory testing equipment. Established in 2015, we have been providing advanced laboratory testing equipment and analyser including Business Type Exporter, Importer, Distributor, Supplier, Trading Company Employee Count 20 Establishment 2015 Working Days Monday To Sunday Related Products Autoquant 400 Supremus Biochemistry Analyzer - Color: Different Available Price: 1060000 INR MOQ - 5 Unit/Units Drx Laboratories India Inc New Delhi, Delhi",
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/clinical-biochemistry-analyzer-c3774440.html",
-      "company_address": "",
+      "company_address": "Plot No-F-21 Dwarkapuri, Vijay Enclave, Palam Dabri Road, New Delhi, Delhi, 110045, India",
       "brochure_links": [],
       "machine_usage": "Clinical biochemistry analysis in labs",
       "tests_performed": [
@@ -5449,16 +5449,16 @@
           "url": "https://www.tradeindia.com/products/neo-4000-chemistry-analyzer-6469074.html"
         }
       ],
-      "manufacturer_company": "",
+      "manufacturer_company": "U. R. DIAGNOSTICS PVT. LTD.",
       "importer_company": "",
       "country_of_manufacture": "",
-      "supplier_company": "",
-      "company_name": "",
+      "supplier_company": "U. R. DIAGNOSTICS PVT. LTD.",
+      "company_name": "U. R. DIAGNOSTICS PVT. LTD.",
       "company_profile": "Company Preface To cater to the requirements of pharmaceutical and diagnostic industries, we, U.R. Diagnostics Pvt Ltd., were founded in 2007. Since our foundation, we have remained committed in meeting and exceeding our clients expectations with our entire assortment of quality assured products. Acquisition of immense knowledge and rich experience has assisted in achieving a prominent position of one of the noted importers, traders and suppliers in this competitive industry. Banking on valuable contribution of reliable vendors, we are able to showcase a quality range of products such as Clinical Chemistry (Two Reagents ), Clinical Chemistry ( Single Reagents), Serology ( Including Blood Group Business Type Exporter, Supplier, Trading Company Employee Count 50 Establishment 2001 Related Products Mediray- Semi Auto Biochemistry Analyzer - Material: Plastic Price: 52000 INR MOQ - 1 Piece/Pieces Mediray Healthcare Faridabad, Haryana",
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/clinical-chemistry-analyzer-c720406.html",
-      "company_address": "",
+      "company_address": "204, First Floor, Mittal Shopping Complex, Kulbir Singh Marg, NH-5, N.I.T., Faridabad, Haryana, 121001, India",
       "brochure_links": [],
       "machine_usage": "U. R. Diagnostics Pvt. Ltd. - Offering low price Clinical Chemistry Analyzer - Quartz Colorimetric Tank, 330x310x175mm, Halogen Lamp, 340-630nm | Large Memory, Multifunctional Software, Convenient Maintenance - Quartz Colorimetric Tank, 330x310x175mm, Halogen Lamp, 340-630nm | Large Memory, Multifunctional Software, Convenient Maintenance in NH-5 Nissan Hut (NIT), Faridabad with product details & company information.",
       "tests_performed": [],
@@ -5557,7 +5557,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/udit-agencies-2241277/",
-      "company_address": "",
+      "company_address": "Plot No-21, Alok Press Chouraha, 1st Floor, Tallaiya Road, Bhopal, Madhya Pradesh, 462001, India",
       "brochure_links": [],
       "machine_usage": "Clinical chemistry assays",
       "tests_performed": [
@@ -5710,7 +5710,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/didac-international-11078877/",
-      "company_address": "",
+      "company_address": "Regd. Office Address : 507, Shahpuri Tower, C- 58, Janakpuri New Delhi, Delhi, 110058, India",
       "brochure_links": [],
       "machine_usage": "Clinical Chemistry Analyzer",
       "tests_performed": [],
@@ -5796,16 +5796,16 @@
           "url": "https://www.tradeindia.com/products/ph-analyser-c698762.html"
         }
       ],
-      "manufacturer_company": "",
+      "manufacturer_company": "ELICO LIMITED",
       "importer_company": "",
       "country_of_manufacture": "",
-      "supplier_company": "",
-      "company_name": "",
+      "supplier_company": "ELICO LIMITED",
+      "company_name": "ELICO LIMITED",
       "company_profile": "ELICO LIMITED , Established in 1959 at Hyderabad in Telangana, is a leading Exporter,Manufacturer,Supplier of Measuring Tools & Equipment in India. ELICO LIMITED is one of Trade India's verified and trusted sellers of listed products. With extensive experience in supplying and trading Clinical Chemistry Analyzers, ELICO LIMITED has made a reputed name for itself in the market with high-quality True Double Beam Atomic Absorption Spectrophotometer, Variable Bandwidth UV VIS Spectrophotometers, Bio Spectrophotometers, etc. Focusing on a customer-centric approach, ELICO LIMITED has a pan-India presence and caters to a huge consumer base throughout the country. Buy Measuring Tools & Equipment in bulk from ELICO LIMITED at Trade India quality-assured products. Business Type Exporter, Manufacturer, Supplier Establishment 1959 Working Days Monday To Sunday GST NO 36AAACE5140L1ZP Certification ISO:9001 Related Products Emp 168 Semi Automatic Chemistry Analyzer Dimension(L*W*H): 420(L) X 310(W) X 152(H) Centimeter (Cm) Vishnu Bio Sciences Hyderabad, Telangana",
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/clinical-chemistry-analyzers-c698758.html",
-      "company_address": "",
+      "company_address": "B-90, A.P.E.I, Sanathnagar Industrial Estate, Hyderabad, Telangana, 500018, India",
       "brochure_links": [],
       "machine_usage": "Buy low price Clinical Chemistry Analyzers in Sanathnagar, Hyderabad. Clinical Chemistry Analyzers offered by Elico Limited is available with multiple payment options and easy delivery.",
       "tests_performed": [],
@@ -5882,7 +5882,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/pulse-medical-services-9769229/",
-      "company_address": "",
+      "company_address": "Plot no :- 204/B, Yaddamnagar Colony, Tirumalagiri, Secunderabad, Telangana, 500015, India",
       "brochure_links": [],
       "machine_usage": "C Sense Biochemistry Analyzer",
       "tests_performed": [],
@@ -5970,16 +5970,16 @@
           "url": "https://www.tradeindia.com/products/sinocare-safe-accu-bood-glucose-monitoring-system-c8639911.html"
         }
       ],
-      "manufacturer_company": "",
+      "manufacturer_company": "Ank Cares Pvt Ltd",
       "importer_company": "",
       "country_of_manufacture": "",
-      "supplier_company": "",
-      "company_name": "",
+      "supplier_company": "Ank Cares Pvt Ltd",
+      "company_name": "Ank Cares Pvt Ltd",
       "company_profile": "Ank Cares Pvt Ltd , Established in 2015 at Ahmedabad in Gujarat, is a leading Exporter,Manufacturer,Supplier,Trading Company of Personal Safety Equipment in India. Ank Cares Pvt Ltd is one of Trade India's verified and trusted sellers of listed products. With extensive experience in supplying and trading CPC Turbochem Prime Fully Automated Clinical Chemistry Analyzer, Ank Cares Pvt Ltd has made a reputed name for itself in the market with high-quality 100 Bp DNA Ladder 500ul, Abon Multi Drug Test Kit 6 Panel, Abon-Alere Multi Line Drug Screen Test (Urine) 10 Para, etc. Focusing on a customer-centric approach, Ank Cares Pvt Ltd has a pan-India presence and caters to a huge consumer base throughout the country. Buy Personal Safety Equipment in bulk from Ank Cares Pvt Ltd at Trade India quality-assured products. Business Type Exporter, Manufacturer, Supplier, Trading Company Employee Count 25 Establishment 2015 Working Days Monday To Sunday GST NO 24AAQCA0109F1Z4 Payment Mode Cash Advance (CA) Related Products Clinical Chemistry Analyzer - Application: Laboratory Use Price: 105000.00 INR MOQ - 1 Piece/Pieces Microlab Instruments Private Limited Ahmedabad, Gujarat",
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/cpc-turbochem-prime-fully-automated-clinical-chemistry-analyzer-c8761098.html",
-      "company_address": "",
+      "company_address": "Sakar - 5, 103, 1st Floor, Ashram Road, Behind Croma, Ahmedabad, Gujarat, 380001, India",
       "brochure_links": [],
       "machine_usage": "Hospital / Pathlab / Clinic",
       "tests_performed": [],
@@ -6057,16 +6057,16 @@
           "url": "https://www.tradeindia.com/products/erba-chem-5x-clinical-chemistry-analyzer-c8379215.html"
         }
       ],
-      "manufacturer_company": "",
+      "manufacturer_company": "HEALTH TECH HEALTHCARE",
       "importer_company": "",
       "country_of_manufacture": "",
-      "supplier_company": "",
-      "company_name": "",
+      "supplier_company": "HEALTH TECH HEALTHCARE",
+      "company_name": "HEALTH TECH HEALTHCARE",
       "company_profile": "HEALTH TECH HEALTHCARE , Established in 2016 at Delhi in Delhi, is a leading Supplier,Trading Company,Wholesaler of Medical Equipment in India. HEALTH TECH HEALTHCARE is one of Trade India's verified and trusted sellers of listed products. With extensive experience in supplying and trading Star 20 Clinical Chemistry Analyzer, HEALTH TECH HEALTHCARE has made a reputed name for itself in the market with high-quality 60 ABX Micros Analyzer, AD 3200 Plus Hematology Analyzers, Aspen Star 20 Clinical Chemistry Analyzer, etc. Focusing on a customer-centric approach, HEALTH TECH HEALTHCARE has a pan-India presence and caters to a huge consumer base throughout the country. Buy Medical Equipment in bulk from HEALTH TECH HEALTHCARE at Trade India quality-assured products. Business Type Supplier, Trading Company, Wholesaler Employee Count 10 Establishment 2016 Working Days Monday To Saturday GST NO 07BKMPA3262M1Z0 Payment Mode Online Payments (NEFT/RTGS/IMPS) Related Products Full Automatic Chemistry Analyzer - Application: Commercial MOQ - 1 Unit/Units Weldon Biotech (india) Pvt. Ltd. Delhi, Delhi",
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/star-20-clinical-chemistry-analyzer-c9495038.html",
-      "company_address": "",
+      "company_address": "Shop No. 26, Aggrawal City Mall, Rani Bagh, Delhi, Delhi, 110034, India",
       "brochure_links": [],
       "machine_usage": "Hospital",
       "tests_performed": [],
@@ -6225,7 +6225,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/krishco-medical-products-pvt-ltd-3014067/",
-      "company_address": "",
+      "company_address": "No .181, 3rd Main, 5th Cross, Srinivasa Nagar, Bsk 1st Stage, Near Vidyapeeta Circle, Bengaluru, Karnataka, 560050, India",
       "brochure_links": [],
       "machine_usage": "SQAIQ Clinical Sperm Quality Analyzer",
       "tests_performed": [],
@@ -6343,16 +6343,16 @@
           "url": "https://www.tradeindia.com/products/neo-4000-chemistry-analyzer-6469074.html"
         }
       ],
-      "manufacturer_company": "",
+      "manufacturer_company": "BHARGAVA BIO - MEDICS",
       "importer_company": "",
       "country_of_manufacture": "",
-      "supplier_company": "",
-      "company_name": "",
+      "supplier_company": "BHARGAVA BIO - MEDICS",
+      "company_name": "BHARGAVA BIO - MEDICS",
       "company_profile": "About Us Based in Madhya Pradesh (India), Bhargava Bio-Medics is a reputed Manufacturer, Supplier, Exporter and Service Provider of medical instruments. Our company was set up in the year 2009 with a mission to be the preferred choice to acquire Electrolyte Analyzer, Laboratory Reagents and similar products in the marketplace. Products we offer to our reputed clients are Biochemistry Analyzer, Cleaner Reagent, Diluent Reagents, Electrolyte Analyzer, Hematology Analyzer, Laboratory Reagents, Lyzer Reagents, Pathology Instruments, Probe Cleaner, etc. We manufacture all these products adhering to the global quality parameters to serve the clients with unmatched quality in all goods. In addition to this, our infrastructure supports us efficiently to fabricate medical equipment with dimensional accuracy. Also, all our products are covered by warranty period which marks our market authenticity. We attain complete client satisfaction by surpassing our performance to keep things balanced. In our endeavor to stand apart from the regular manufacturers in the market, we also provide after sales service to focus on different requirements of our customers. Our technical team provides consultation and give information regarding the product usages. Our customer service comes under our top most priorities to achieve our organizational goals. Business Type Exporter, Manufacturer, Service Provider, Supplier Employee Count 15 Establishment 2009 Working Days Monday To Saturday GST NO 23ATQPB3374D1ZY Payment Mode Cash in Advance (CID) Related Products Chemistry Analyzer - Automated, Discrete, Random Access | 330 Tests/Hour, Refrigerated Reagent Compartment, Bi-Directional LIS Interface, 40 Reagent & Sample Positions, 80 Semi-Permanent Cuvettes, Automatic Cleaning & Collision Protection Bhargava Bio - Medics Ujjain, Madhya Pradesh",
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/semi-auto-chemistry-analyzer-c2840515.html",
-      "company_address": "",
+      "company_address": "Plot No. 16, Bhargava Complex, Varah Mihir Marg, Freeganj, Ujjain, Madhya Pradesh, 456010, India",
       "brochure_links": [],
       "machine_usage": "Bhargava Bio - Medics - Offering low price Semi Auto Chemistry Analyzer - Absorbance Range: -0.214~3.000, Lcd Display 240x128 | Accurate Results, User Friendly, Versatile Testing, Peltier Temperature Control in Freeganj, Ujjain with product details & company information.",
       "tests_performed": [],
@@ -6493,7 +6493,7 @@
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/tuljai-labpoint-private-limited-27267008/",
-      "company_address": "",
+      "company_address": "Flat No 001, Konark Appartment, Plot No 151/A, Khare Town, Nagpur, Maharashtra, 440010, India",
       "brochure_links": [],
       "machine_usage": "Clinical Chemistry Analyzer",
       "tests_performed": [],
@@ -6587,16 +6587,16 @@
           "url": "https://www.tradeindia.com/products/abbott-urometer-120-urine-chemistry-analyzer-c9991917.html"
         }
       ],
-      "manufacturer_company": "",
+      "manufacturer_company": "Invitro Biotech Ltd",
       "importer_company": "",
       "country_of_manufacture": "",
-      "supplier_company": "",
-      "company_name": "",
+      "supplier_company": "Invitro Biotech Ltd",
+      "company_name": "Invitro Biotech Ltd",
       "company_profile": "Laboratory Equipment & Reagents - accuracy, precision and reliabilityEstablished in the year 2002, Invitro Biotech Ltd. is a renowned manufacturer, supplier and exporter of a wide array of laboratory products with application in clinical, biotech, research and college laboratories. Laboratories can avail from us microprocessor based Digital Colorimeter, Chemistry Analyzer, Hemoglobin Meter, Single and Multi Channel Micropipettes, various models of regular Lab Centrifuge, Lab Accessories Clinical Chemistry Reagents, and many more. Manufactured as per best industrial practices and norms, our products are known for best quality & standards. Our quality management systems are ISO 9001: 2008 certified and SOPs are laid out for Business Type Exporter, Manufacturer, Supplier Employee Count 20 Establishment 2002 Working Days Monday To Sunday GST NO 36AAACI8264R1ZU Related Products Emp 168 Semi Automatic Chemistry Analyzer Dimension(L*W*H): 420(L) X 310(W) X 152(H) Centimeter (Cm) Vishnu Bio Sciences Hyderabad, Telangana",
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/clinical-chemistry-analyzer-c2000683.html",
-      "company_address": "",
+      "company_address": "Building Number- 177, Prasanth Nagar, Industrial Area, Kukatpally, Hyderabad, Telangana, 500072, India",
       "brochure_links": [],
       "machine_usage": "Buy low price Clinical Chemistry Analyzer in Kukatpally, Hyderabad. Clinical Chemistry Analyzer offered by Invitro Biotech Ltd is available with multiple payment options and easy delivery.",
       "tests_performed": [],
@@ -6698,16 +6698,16 @@
           "url": "https://www.tradeindia.com/products/kanad-semi-auto-clinical-analyser-6fx-c8379206.html"
         }
       ],
-      "manufacturer_company": "",
+      "manufacturer_company": "CLINDIAG INDIA (a division of Monash International)",
       "importer_company": "",
       "country_of_manufacture": "",
-      "supplier_company": "",
-      "company_name": "",
+      "supplier_company": "CLINDIAG INDIA (a division of Monash International)",
+      "company_name": "CLINDIAG INDIA (a division of Monash International)",
       "company_profile": "Clindiag is a newly founded company by a group of experienced international specialists, located in Belgium, the heart of Europe. Having the many years of experience of our engineers, Clindiag provides a full range of customer orientated, innovative products to the clinical laboratory world market.By producing high quality products combined with an excellent service to our customers, Clindiag is planning to become an important player in the clinical laboratory market over the next few years... 25792_ 25792_HOME2.jpg Clindiag India a divis Business Type Exporter, Service Provider, Distributor, Supplier, Trading Company Establishment 1998 Working Days Monday To Saturday Related Products Fully Automated Biochemistry Analyzer - Color: White Price: 300000 INR MOQ - 1 Unit/Units Medica Solutions Delhi, Delhi",
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/semi-automatic-clinical-analyzer-c478186.html",
-      "company_address": "",
+      "company_address": "B-1177-78, G.D.Colony, Mayur Vihar, Phase-III, Delhi, Delhi, 110096, India",
       "brochure_links": [],
       "machine_usage": "Clindiag India (a Division Of Monash International) - Offering low price Semi Automatic Clinical Analyzer in Mayur Vihar - III, Delhi with product details & company information.",
       "tests_performed": [],
@@ -6823,16 +6823,16 @@
           "url": "https://www.tradeindia.com/products/tissue-stabilizer-8317845.html"
         }
       ],
-      "manufacturer_company": "",
+      "manufacturer_company": "PIKA MEDICAL (P) LTD.",
       "importer_company": "",
       "country_of_manufacture": "",
-      "supplier_company": "",
-      "company_name": "",
+      "supplier_company": "PIKA MEDICAL (P) LTD.",
+      "company_name": "PIKA MEDICAL (P) LTD.",
       "company_profile": "Founded in the year of 1994, we, Pika Medical (P) Limited, have established ourselves as a renowned Supplier and Trader of an unmatched array of medical equipment which includes Karl Storz Endoscopic Equipment, Endoscopic Medical Equipment, Inventis Audiometers, Inventi Tympanometers, Emed Electrocautery Unit, Middle Ear Analyzers and more. These are procured from a trusted base of experienced vendors who manufacture these products using licensed components. Our entire range of hospital equipment has an enormous market demand owing to their steady performance, long operational life, portable design, accurate information, low power consumption etc. We have an in-house fully Business Type Distributor, Supplier, Trading Company Employee Count 19 Establishment 1994 Working Days Monday To Sunday GST NO 29AAACP8185A1ZD Related Products Medical Diagnostic Equipments Geneva Industries Ltd. Bengaluru, Karnataka",
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/clinical-middle-ear-analyzer-c4413153.html",
-      "company_address": "",
+      "company_address": "1212B, Mittal Tower, 6 M.G. Road, Bengaluru, Karnataka, 560001, India",
       "brochure_links": [],
       "machine_usage": "Hospital, clinic middle ear testing",
       "tests_performed": [
@@ -6944,16 +6944,16 @@
           "url": "https://www.tradeindia.com/products/biochemistry-analyzer-c4729653.html"
         }
       ],
-      "manufacturer_company": "",
+      "manufacturer_company": "RADIANT BIOMED PVT. LTD.",
       "importer_company": "",
       "country_of_manufacture": "",
-      "supplier_company": "",
-      "company_name": "",
+      "supplier_company": "RADIANT BIOMED PVT. LTD.",
+      "company_name": "RADIANT BIOMED PVT. LTD.",
       "company_profile": "We prefer inquiries from north India only, like Delhi NCR, Rajasthan, UP, Punjab etc. Established in 2011, we, RADIANT BIOMED PVT. LTD, are a renowned importer, supplier and wholesaler/distributor of Laboratory Equipment such as, Hematology Analyzer, (Blood Cell Counter) and Biochemistry Analyzer. We are offering these products to several hospitals, laboratories and health clinics.All our laboratory equipments are of reputed brands and appreciated for their advanced technology. They are reliable and affordable. They provide accurate results to the doctors and help them to diagnose the patient's disease Business Type Importer, Distributor, Supplier Employee Count 8 Establishment 2011 Working Days Monday To Sunday GST NO 07AAGCR7834J1ZY Related Products Autoquant 400 Supremus Biochemistry Analyzer - Color: Different Available Price: 1060000 INR MOQ - 5 Unit/Units Drx Laboratories India Inc New Delhi, Delhi",
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/clinical-biochemistry-analyzer-c3310429.html",
-      "company_address": "",
+      "company_address": "C-159, 1st Floor, Main Road, Naraina Industrial Area Phase - 1, New Delhi, Delhi, 110028, India",
       "brochure_links": [],
       "machine_usage": "Buy low price Clinical Biochemistry Analyzer in Naraina - I, New Delhi. Clinical Biochemistry Analyzer offered by Radiant Biomed Pvt. Ltd. is available with multiple payment options and easy delivery.",
       "tests_performed": [],
@@ -7087,16 +7087,16 @@
           "url": "https://www.tradeindia.com/products/biochemistry-analyzer-c6350610.html"
         }
       ],
-      "manufacturer_company": "",
+      "manufacturer_company": "PRANA'S 4 EVER DIAGNOSTICS",
       "importer_company": "",
       "country_of_manufacture": "",
-      "supplier_company": "",
-      "company_name": "",
+      "supplier_company": "PRANA'S 4 EVER DIAGNOSTICS",
+      "company_name": "PRANA'S 4 EVER DIAGNOSTICS",
       "company_profile": "We are the right place for the customer who in looking for and authentic firm for buying the top-class and items like Activated Clotting Time Machine, Elisa Readwell Touch, Prietest Easylab Biochemistry Analyzer, Wash Well Strip etc. Our company named Prana's 4 Ever Diagnostics is a one-stop destinations and a leading supplier, wholesaler and trader of wide array of products. Since our foundation in 2014, we have become one of the favourite choice of the customers and have made a vast client base form various ends of the country. We feel beaming to see that our attempts are being successful, as we are getting positive reviews from our customer in majority. We promise that in future too, we will stay loyal in our business deals and satisfy the needs of the customers. Give us a chance to serve, we Business Type Distributor, Supplier, Trading Company Employee Count 5 Establishment 2014 Working Days Monday To Sunday GST NO 27ALTPS3435P1Z3 Related Products Agappe Mispa Viva Infinity Diagnochem Mumbai, Maharashtra",
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/biochemistry-analyzer-c4729653.html",
-      "company_address": "",
+      "company_address": "J-11, Nancy Cottage, Nancy Colony, Near ST Bus Depot, Borivali (E), Mumbai, Maharashtra, 400066, India",
       "brochure_links": [],
       "machine_usage": "Prana's 4 Ever Diagnostics - Offering low price Prietest Touch Prietest Touch Biochemistry Analyzer - ABS Plastic, 380 x 320 x 150mm | LCD Display, AC 100-240V Power Supply, High Accuracy, Long Service Life - Abs Plastic, 380 X 320 X 150mm | Lcd Display, Ac 100-240v Power Supply, High Accuracy, Long Service Life in BORIVALI (E), Mumbai with product details & company information.",
       "tests_performed": [],
@@ -7205,16 +7205,16 @@
           "url": "https://www.tradeindia.com/products/tds-conductivity-meter-with-high-accuracy-7182450.html"
         }
       ],
-      "manufacturer_company": "",
+      "manufacturer_company": "ACCUSTER TECHNOLOGIES PVT. LTD.",
       "importer_company": "",
       "country_of_manufacture": "",
-      "supplier_company": "",
-      "company_name": "",
+      "supplier_company": "ACCUSTER TECHNOLOGIES PVT. LTD.",
+      "company_name": "ACCUSTER TECHNOLOGIES PVT. LTD.",
       "company_profile": "ACCUSTER TECHNOLOGIES PVT. LTD. , Established in 2009 at Gurugram in Haryana, is a leading service provider of Laboratory Glassware & Equipment in India. ACCUSTER TECHNOLOGIES PVT. LTD. is one of Trade India's verified and trusted names for listed services. With extensive experience in the field of Laboratory Glassware & Equipment, ACCUSTER TECHNOLOGIES PVT. LTD. has made a reputed name for itself in the market with satisfactory Accurate All, Accurate-8, Autoclave, etc. Focusing on a customer-centric approach, ACCUSTER TECHNOLOGIES PVT. LTD. has a pan-India presence and caters to a huge consumer base throughout the country. Get Laboratory Glassware & Equipment from ACCUSTER TECHNOLOGIES PVT. LTD. at Trade India quality-assured services. Business Type Exporter, Manufacturer, Service Provider, Supplier, Trading Company Employee Count 100 Establishment 2009 Working Days Monday To Sunday GST NO 06AABCU0629H1ZK Related Products Chemistry Analyzers Accuster Technologies Pvt. Ltd. Gurugram, Haryana",
       "phone": "",
       "email": "",
       "website": "https://www.tradeindia.com/products/chemistry-analyzers-c3905784.html",
-      "company_address": "",
+      "company_address": "Plot No. 758, First Floor Sector 47, Near Bharat Petroleum, Gurugram, Haryana, 122018, India",
       "brochure_links": [],
       "machine_usage": "Laboratory analysis, quality control, field testing",
       "tests_performed": [
