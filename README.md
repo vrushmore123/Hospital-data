@@ -33,6 +33,24 @@ The Excel workbook has one row per product and preserves the original columns fo
 
 Blank importer, country-of-manufacture, and brochure fields mean that the website did not state those details; the scraper does not invent them.
 
+## Multi-source medical equipment collection
+
+`medical_equipment_scraper.py` creates one JSON file per supplied listing URL. It follows product-shaped links, extracts only stated values, keeps the product source URL and source website, and removes duplicate product/company pairs. It does not treat a brand as a manufacturer, and it leaves importer and contact fields blank unless they are explicitly present.
+
+Run it with the five supplied sources:
+
+```powershell
+py medical_equipment_scraper.py `
+	"https://www.tradeindia.com/manufacturers/clinical-laboratory-equipment.html" `
+	"https://www.tradeindia.com/manufacturers/medical-laboratory-equipment.html" `
+	"https://www.medicalexpo.com/medical-manufacturer/eeg-system-2716.html" `
+	"https://www.tradeindia.com/manufacturers/hospital-laboratory-equipment.html" `
+	"https://www.tradeindia.com/manufacturers/scientific-lab-equipment.html" `
+	--output-dir source_outputs --limit 100
+```
+
+This writes `source_01.json` through `source_05.json`. Marketplace results are supporting sources only; for verified manufacturer phone, email, address, importer, and brochure values, add the official manufacturer or Indian distributor product URL as another input. HTTP failures are retained in each file's `errors` array. Use `--timeout` to bound slow or blocked sources.
+
 ## TradeIndia clinical analyzers
 
 Scrape the supplied TradeIndia clinical-analyzer search results, including the Kanad product URL, into the same 21-field JSON and Excel schema:
