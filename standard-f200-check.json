@@ -1,0 +1,41 @@
+{
+  "url": "https://www.venushealthcare.net/products/standard-f200-analyzer",
+  "name": "STANDARD F200 Analyzer",
+  "description": "The STANDARD F200 supports a broad menu across diabetes, inflammation, cardiac, thyroid and infectious-disease testing. Its touchscreen workflow, result storage and connectivity make it a strong fit for hospitals, laboratories and busy clinics.",
+  "image": "https://www.venushealthcare.net/products/standard-f200.png",
+  "brand": "SD Biosensor",
+  "features": [
+    "Fluorescent immunoassay technology",
+    "Touchscreen-guided operation",
+    "LIS/HIS connectivity support",
+    "Stores up to 3,000 results",
+    "Broad multi-parameter test menu"
+  ],
+  "applications": [],
+  "related_products": [
+    {
+      "name": "Sinocare iCARE-2100 Analyzer",
+      "url": "https://www.venushealthcare.net/products/sinocare-icare-2100-analyzer"
+    },
+    {
+      "name": "View details →",
+      "url": "https://www.venushealthcare.net/products/sinocare-icare-2100-analyzer"
+    },
+    {
+      "name": "STANDARD F2400 Analyzer",
+      "url": "https://www.venushealthcare.net/products/standard-f2400-analyzer"
+    },
+    {
+      "name": "View details →",
+      "url": "https://www.venushealthcare.net/products/standard-f2400-analyzer"
+    },
+    {
+      "name": "FIA Flex Analyzer",
+      "url": "https://www.venushealthcare.net/products/fia-flex-analyzer"
+    },
+    {
+      "name": "View details →",
+      "url": "https://www.venushealthcare.net/products/fia-flex-analyzer"
+    }
+  ]
+}

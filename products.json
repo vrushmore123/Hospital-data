@@ -1,0 +1,2443 @@
+{
+  "products": [
+    {
+      "url": "https://www.venushealthcare.net/products/acculab-cbc-360-neo",
+      "name": "Acculab CBC 360 Neo",
+      "description": "The CBC 360 Neo is available for laboratories and clinics seeking to establish or upgrade routine hematology testing. Venus Health Care can assist with configuration, quotation, installation planning and ongoing consumable support.",
+      "image": "https://www.venushealthcare.net/products/hematology-analyzer.png",
+      "brand": "Acculab",
+      "features": [
+        "Compact laboratory format",
+        "Integrated display and printer",
+        "Configuration consultation available",
+        "Installation and consumable support"
+      ],
+      "applications": [],
+      "related_products": [],
+      "manufacturer_company": "Acculab",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "The CBC 360 Neo is available for laboratories and clinics seeking to establish or upgrade routine hematology testing. Venus Health Care can assist with configuration, quotation, installation planning and ongoing consumable support.",
+      "tests_performed": [
+        "Routine CBC testing",
+        "Clinical laboratory workflow",
+        "Clinic and hospital laboratories"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/acon-hbsag-rapid-test-kit",
+      "name": "PEERCHECK HBsAg Rapid Test",
+      "description": "PEERCHECK HBsAg Rapid Test is a point-of-care test for detecting hepatitis B surface antigen in serum, plasma or whole-blood samples. Its visual workflow is designed for professional screening in clinics, hospitals, laboratories and blood banks.",
+      "image": "https://www.venushealthcare.net/products/peercheck-hbsag-kit.jpg",
+      "brand": "Peerless",
+      "features": [
+        "Serum, plasma or whole-blood samples",
+        "Analytical sensitivity: 0.5 ng/mL",
+        "Rapid visual test format",
+        "For professional in-vitro diagnostic use"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "Peercheck HIV Rapid Test",
+          "url": "https://www.venushealthcare.net/products/peercheck-hiv-rapid-test"
+        },
+        {
+          "name": "Peercheck HCV Rapid Test Kit",
+          "url": "https://www.venushealthcare.net/products/peercheck-hcv-rapid-test-kit"
+        },
+        {
+          "name": "Peercheck Syphilis Rapid Test",
+          "url": "https://www.venushealthcare.net/products/peercheck-syphilis-rapid-test"
+        }
+      ],
+      "manufacturer_company": "Peerless",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "PEERCHECK HBsAg Rapid Test is a point-of-care test for detecting hepatitis B surface antigen in serum, plasma or whole-blood samples. Its visual workflow is designed for professional screening in clinics, hospitals, laboratories and blood banks.",
+      "tests_performed": [
+        "HBsAg screening",
+        "Point-of-care testing",
+        "Clinic, hospital and laboratory workflows"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/benecheck-plus-uric-acid-meter",
+      "name": "BeneCheck Plus Uric Acid Meter",
+      "description": "A portable uric-acid testing solution for clinical and monitoring applications. It provides a simple handheld workflow for healthcare teams requiring quick results.",
+      "image": "https://www.venushealthcare.net/products/benecheck-uric-acid.png",
+      "brand": "BeneCheck",
+      "features": [
+        "Result in approximately 15 seconds",
+        "Uses approximately 1 µL capillary blood",
+        "Measuring range: 3-20 mg/dL",
+        "Compact electrochemical sensor system"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "Renal Function Analysis Meter",
+          "url": "https://www.venushealthcare.net/products/renal-function-analysis-meter"
+        }
+      ],
+      "manufacturer_company": "BeneCheck",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "A portable uric-acid testing solution for clinical and monitoring applications. It provides a simple handheld workflow for healthcare teams requiring quick results.",
+      "tests_performed": [
+        "Uric-acid monitoring",
+        "Gout-care support",
+        "Clinic and screening use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/fia-flex-analyzer",
+      "name": "FIA Flex Analyzer",
+      "description": "FIA Flex supports high-sensitivity fluorescence detection in a compact point-of-care format. Its touchscreen interface and connectivity options are designed for efficient clinical workflows.",
+      "image": "https://www.venushealthcare.net/products/fia-flex.png",
+      "brand": "Fluorescent Immunoassay",
+      "features": [
+        "Fluorescence detection",
+        "Touchscreen interface",
+        "LIS connectivity support",
+        "Compact point-of-care design"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F200 Analyzer",
+          "url": "https://www.venushealthcare.net/products/standard-f200-analyzer"
+        },
+        {
+          "name": "Sinocare iCARE-2100 Analyzer",
+          "url": "https://www.venushealthcare.net/products/sinocare-icare-2100-analyzer"
+        },
+        {
+          "name": "STANDARD F2400 Analyzer",
+          "url": "https://www.venushealthcare.net/products/standard-f2400-analyzer"
+        }
+      ],
+      "manufacturer_company": "Fluorescent Immunoassay",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "FIA Flex supports high-sensitivity fluorescence detection in a compact point-of-care format. Its touchscreen interface and connectivity options are designed for efficient clinical workflows.",
+      "tests_performed": [
+        "Infectious-disease biomarkers",
+        "Cardiac markers",
+        "Thyroid and diabetes parameters"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/fully-automated-200-tph-chemistry-analyzer",
+      "name": "Fully Automated 200 T/H Clinical Analyzer",
+      "description": "A fully automated chemistry platform for laboratories that need a higher-throughput routine workflow. It combines multi-method processing, reagent refrigeration and stored results in a compact bench-top configuration.",
+      "image": "https://www.venushealthcare.net/products/fully-auto-chemistry-200.jpg",
+      "brand": "Mindray",
+      "features": [
+        "Throughput up to 200 tests per hour",
+        "Refrigerated reagent positions",
+        "Multiple chemistry methods supported",
+        "Stores up to 20,000 results",
+        "12 analytical wavelengths"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "Semi-Automatic Chemistry Analyzer",
+          "url": "https://www.venushealthcare.net/products/semi-automatic-chemistry-analyzer"
+        },
+        {
+          "name": "Fully Automated Immunoassay Analyzer",
+          "url": "https://www.venushealthcare.net/products/fully-automated-immunoassay-analyzer"
+        }
+      ],
+      "manufacturer_company": "Mindray",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "A fully automated chemistry platform for laboratories that need a higher-throughput routine workflow. It combines multi-method processing, reagent refrigeration and stored results in a compact bench-top configuration.",
+      "tests_performed": [
+        "Routine clinical chemistry",
+        "Mid-volume laboratories",
+        "Hospital laboratory workflow"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/fully-automated-immunoassay-analyzer",
+      "name": "Fully Automated Immunoassay Analyzer",
+      "description": "This fully automated CLIA platform is intended for laboratories planning an integrated immunoassay workflow. Automated calibration and serum-sample processing help standardize routine testing; the exact configuration is matched to your menu and workload.",
+      "image": "https://www.venushealthcare.net/products/fully-auto-immunoassay.jpg",
+      "brand": "CLIA Platform",
+      "features": [
+        "Chemiluminescence immunoassay technology",
+        "Fully automated workflow",
+        "Automatic calibration support",
+        "Configuration consultation available"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "Semi-Automatic Chemistry Analyzer",
+          "url": "https://www.venushealthcare.net/products/semi-automatic-chemistry-analyzer"
+        },
+        {
+          "name": "Fully Automated 200 T/H Clinical Analyzer",
+          "url": "https://www.venushealthcare.net/products/fully-automated-200-tph-chemistry-analyzer"
+        }
+      ],
+      "manufacturer_company": "CLIA Platform",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "This fully automated CLIA platform is intended for laboratories planning an integrated immunoassay workflow. Automated calibration and serum-sample processing help standardize routine testing; the exact configuration is matched to your menu and workload.",
+      "tests_performed": [
+        "Routine immunoassay testing",
+        "Clinical laboratory workflow",
+        "Hospital laboratories"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/mission-hemopro-hemoglobin-meter",
+      "name": "Mission HemoPro Hemoglobin Meter",
+      "description": "The Mission HemoPro is a spectrophotometry-based hemoglobin testing system for professional use. It works with direct-sampling microcuvettes and accepts capillary or venous whole blood, making it suitable for clinics, laboratories, hospitals and anemia-screening programmes.",
+      "image": "https://www.venushealthcare.net/products/mission-hemopro-meter-clean.png",
+      "brand": "Mission",
+      "features": [
+        "Results in under 2 seconds",
+        "Requires 10 µL capillary or venous whole blood",
+        "Hemoglobin range: 0-26 g/dL",
+        "Calculated hematocrit range: 0-75%",
+        "Stores up to 1,000 results",
+        "Battery or USB-powered operation"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "Quick Check Plus Hemoglobin Meter",
+          "url": "https://www.venushealthcare.net/products/quick-check-plus-hemoglobin-meter"
+        }
+      ],
+      "manufacturer_company": "Mission",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "The Mission HemoPro is a spectrophotometry-based hemoglobin testing system for professional use. It works with direct-sampling microcuvettes and accepts capillary or venous whole blood, making it suitable for clinics, laboratories, hospitals and anemia-screening programmes.",
+      "tests_performed": [
+        "Hemoglobin measurement",
+        "Calculated hematocrit",
+        "Anemia screening",
+        "Clinical and laboratory testing"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/mission-hemopro-hemoglobin-microcuvettes-200",
+      "name": "Mission HemoPro Hemoglobin Microcuvettes 200",
+      "description": "Mission HemoPro microcuvettes serve as both the sample pipette and measuring cuvette. The 200-cuvette supply is designed for compatible HemoPro meters and supports fast professional hemoglobin testing from capillary or venous whole blood.",
+      "image": "https://www.venushealthcare.net/products/mission-hemopro-microcuvettes-clean.png",
+      "brand": "Mission",
+      "features": [
+        "Pack contains 4 × 50 microcuvettes",
+        "For compatible Mission HemoPro meters",
+        "Direct-sampling design",
+        "No toxic reagent or active ingredient",
+        "Room-temperature storage",
+        "For professional in-vitro diagnostic use"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD LipidoCare Lipid Profile Test Strips",
+          "url": "https://www.venushealthcare.net/products/standard-lipidocare-lipid-profile-test-strips"
+        },
+        {
+          "name": "Accuvet Sterile Lancets 100",
+          "url": "https://www.venushealthcare.net/products/safety-lancets"
+        },
+        {
+          "name": "SD CodeFree Test Strips 100",
+          "url": "https://www.venushealthcare.net/products/sd-codefree-test-strips-100"
+        }
+      ],
+      "manufacturer_company": "Mission",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "Mission HemoPro microcuvettes serve as both the sample pipette and measuring cuvette. The 200-cuvette supply is designed for compatible HemoPro meters and supports fast professional hemoglobin testing from capillary or venous whole blood.",
+      "tests_performed": [
+        "Hemoglobin testing",
+        "Anemia screening",
+        "Clinic, hospital and laboratory supply"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/mission-u120-urine-analyzer",
+      "name": "Mission U120 Urine Analyzer",
+      "description": "The Mission U120 is designed for routine urinalysis with automatic calibration, result storage, barcode entry and connectivity support. Its integrated printing workflow suits laboratories handling regular urine-strip testing.",
+      "image": "https://www.venushealthcare.net/products/mission-u120-official.png",
+      "brand": "Mission",
+      "features": [
+        "Up to 120 tests per hour",
+        "Reads up to 11 parameters",
+        "Stores up to 2,000 results",
+        "Barcode entry and LIS connectivity",
+        "Integrated printing support"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "Mission U500 Urine Analyzer",
+          "url": "https://www.venushealthcare.net/products/mission-u500-urine-analyzer"
+        }
+      ],
+      "manufacturer_company": "Mission",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "The Mission U120 is designed for routine urinalysis with automatic calibration, result storage, barcode entry and connectivity support. Its integrated printing workflow suits laboratories handling regular urine-strip testing.",
+      "tests_performed": [
+        "Routine urinalysis",
+        "Laboratory workflow",
+        "Clinic and hospital testing"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/mission-u500-urine-analyzer",
+      "name": "Mission U500 Urine Analyzer",
+      "description": "The Mission U500 is designed for medium- and large-volume urinalysis workflows. Automatic strip detection and alignment, touchscreen operation, result storage, barcode support and LIS connectivity help laboratories manage fast routine and priority testing efficiently.",
+      "image": "https://www.venushealthcare.net/products/mission-u500-urine-analyzer.png",
+      "brand": "Mission",
+      "features": [
+        "Throughput: up to 500 tests per hour",
+        "Semi-automatic reflectance photometry",
+        "Supports 1-14 parameter reagent strips",
+        "Stores up to 2,000 records",
+        "Routine, STAT and QC test categories",
+        "Barcode reader and LIS connectivity support",
+        "Automatic calibration and strip detection"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "Mission U120 Urine Analyzer",
+          "url": "https://www.venushealthcare.net/products/mission-u120-urine-analyzer"
+        }
+      ],
+      "manufacturer_company": "Mission",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "The Mission U500 is designed for medium- and large-volume urinalysis workflows. Automatic strip detection and alignment, touchscreen operation, result storage, barcode support and LIS connectivity help laboratories manage fast routine and priority testing efficiently.",
+      "tests_performed": [
+        "High-volume routine urinalysis",
+        "STAT and quality-control testing",
+        "Hospital and diagnostic laboratory workflows",
+        "Urine chemistry screening"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/on-call-gk-dual-ketone-meter",
+      "name": "On Call GK Dual Ketone Meter",
+      "description": "On Call GK Dual is built for clear, efficient ketone testing. Foil-wrapped strips, strip and lancet ejectors, and stored dated results support safe and organized routine use.",
+      "image": "https://www.venushealthcare.net/products/oncall-gk-dual-official.png",
+      "brand": "ACON",
+      "features": [
+        "β-ketone result in approximately 10 seconds",
+        "Uses approximately 1.2 µL sample",
+        "Stores up to 450 dated results",
+        "Strip and lancet ejectors"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "On Call Plus Glucometer",
+          "url": "https://www.venushealthcare.net/products/on-call-plus-glucometer"
+        }
+      ],
+      "manufacturer_company": "ACON",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "On Call GK Dual is built for clear, efficient ketone testing. Foil-wrapped strips, strip and lancet ejectors, and stored dated results support safe and organized routine use.",
+      "tests_performed": [
+        "Blood ketone testing",
+        "Diabetes-care support",
+        "Clinic and hospital use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/on-call-plus-glucometer",
+      "name": "On Call Plus Glucometer",
+      "description": "On Call Plus offers a familiar handheld workflow for blood-glucose monitoring. Venus Health Care supplies compatible meters and strip packs for institutional and professional enquiries.",
+      "image": "https://www.venushealthcare.net/products/oncall-plus-meter-clean.png",
+      "brand": "Peerless / ACON",
+      "features": [
+        "Portable handheld design",
+        "Compatible strip supply available",
+        "Individually packed strip options",
+        "Bulk institutional enquiries supported"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "On Call GK Dual Ketone Meter",
+          "url": "https://www.venushealthcare.net/products/on-call-gk-dual-ketone-meter"
+        }
+      ],
+      "manufacturer_company": "Peerless / ACON",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "On Call Plus offers a familiar handheld workflow for blood-glucose monitoring. Venus Health Care supplies compatible meters and strip packs for institutional and professional enquiries.",
+      "tests_performed": [
+        "Blood-glucose monitoring",
+        "Clinic supply",
+        "Institutional strip programmes"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/on-call-plus-test-strips-200",
+      "name": "On Call Plus Blood Glucose Test Strips 200",
+      "description": "On Call Plus strips are intended for testing glucose in whole blood with compatible On Call Plus and On Call EZ II meters. The 200-strip pack includes a code chip and package insert for self-testing and professional use.",
+      "image": "https://www.venushealthcare.net/products/oncall-plus-strips-200-clean.png",
+      "brand": "ACON",
+      "features": [
+        "Pack contains 200 test strips",
+        "Includes code chip and package insert",
+        "Measurement range: 10-900 mg/dL",
+        "Compatible with On Call Plus and On Call EZ II meters",
+        "For in-vitro diagnostic use"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD LipidoCare Lipid Profile Test Strips",
+          "url": "https://www.venushealthcare.net/products/standard-lipidocare-lipid-profile-test-strips"
+        },
+        {
+          "name": "Mission HemoPro Hemoglobin Microcuvettes 200",
+          "url": "https://www.venushealthcare.net/products/mission-hemopro-hemoglobin-microcuvettes-200"
+        },
+        {
+          "name": "Accuvet Sterile Lancets 100",
+          "url": "https://www.venushealthcare.net/products/safety-lancets"
+        }
+      ],
+      "manufacturer_company": "ACON",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "On Call Plus strips are intended for testing glucose in whole blood with compatible On Call Plus and On Call EZ II meters. The 200-strip pack includes a code chip and package insert for self-testing and professional use.",
+      "tests_performed": [
+        "Blood-glucose testing",
+        "Clinic and hospital supply",
+        "Institutional procurement"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/peercheck-hcv-rapid-test-kit",
+      "name": "Peercheck HCV Rapid Test Kit",
+      "description": "Peercheck HCV provides a compact rapid-test format for professional screening environments. Pack size, documentation and current stock are confirmed during the quotation process.",
+      "image": "https://www.venushealthcare.net/products/peercheck-hcv-kit.png",
+      "brand": "Peercheck",
+      "features": [
+        "Rapid visual test format",
+        "Professional-use supply",
+        "Institutional quantities available",
+        "Pack details confirmed at quotation"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "PEERCHECK HBsAg Rapid Test",
+          "url": "https://www.venushealthcare.net/products/acon-hbsag-rapid-test-kit"
+        },
+        {
+          "name": "Peercheck HIV Rapid Test",
+          "url": "https://www.venushealthcare.net/products/peercheck-hiv-rapid-test"
+        },
+        {
+          "name": "Peercheck Syphilis Rapid Test",
+          "url": "https://www.venushealthcare.net/products/peercheck-syphilis-rapid-test"
+        }
+      ],
+      "manufacturer_company": "Peercheck",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "Peercheck HCV provides a compact rapid-test format for professional screening environments. Pack size, documentation and current stock are confirmed during the quotation process.",
+      "tests_performed": [
+        "HCV screening",
+        "Clinic and hospital testing",
+        "Laboratory screening workflow"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/peercheck-hiv-rapid-test",
+      "name": "Peercheck HIV Rapid Test",
+      "description": "Peercheck HIV is available for professional screening use in clinics, hospitals and laboratories. Venus Health Care can confirm the supplied pack, documentation and current availability with your quotation.",
+      "image": "https://www.venushealthcare.net/products/peercheck-hiv-kit.png",
+      "brand": "Peercheck",
+      "features": [
+        "Rapid visual test format",
+        "Professional-use supply",
+        "Institutional quantities available",
+        "Pack details confirmed at quotation"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "PEERCHECK HBsAg Rapid Test",
+          "url": "https://www.venushealthcare.net/products/acon-hbsag-rapid-test-kit"
+        },
+        {
+          "name": "Peercheck HCV Rapid Test Kit",
+          "url": "https://www.venushealthcare.net/products/peercheck-hcv-rapid-test-kit"
+        },
+        {
+          "name": "Peercheck Syphilis Rapid Test",
+          "url": "https://www.venushealthcare.net/products/peercheck-syphilis-rapid-test"
+        }
+      ],
+      "manufacturer_company": "Peercheck",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "Peercheck HIV is available for professional screening use in clinics, hospitals and laboratories. Venus Health Care can confirm the supplied pack, documentation and current availability with your quotation.",
+      "tests_performed": [
+        "HIV screening",
+        "Hospital and laboratory use",
+        "Institutional screening programmes"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/peercheck-syphilis-rapid-test",
+      "name": "Peercheck Syphilis Rapid Test",
+      "description": "Peercheck Syphilis is supplied for professional screening programmes in clinical settings. Venus Health Care can confirm the appropriate pack, accompanying documentation and availability before ordering.",
+      "image": "https://www.venushealthcare.net/products/peercheck-syphilis-kit.png",
+      "brand": "Peercheck",
+      "features": [
+        "Rapid visual test format",
+        "Professional-use supply",
+        "Institutional quantities available",
+        "Pack details confirmed at quotation"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "PEERCHECK HBsAg Rapid Test",
+          "url": "https://www.venushealthcare.net/products/acon-hbsag-rapid-test-kit"
+        },
+        {
+          "name": "Peercheck HIV Rapid Test",
+          "url": "https://www.venushealthcare.net/products/peercheck-hiv-rapid-test"
+        },
+        {
+          "name": "Peercheck HCV Rapid Test Kit",
+          "url": "https://www.venushealthcare.net/products/peercheck-hcv-rapid-test-kit"
+        }
+      ],
+      "manufacturer_company": "Peercheck",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "Peercheck Syphilis is supplied for professional screening programmes in clinical settings. Venus Health Care can confirm the appropriate pack, accompanying documentation and availability before ordering.",
+      "tests_performed": [
+        "Syphilis screening",
+        "Hospital and laboratory use",
+        "Institutional screening programmes"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/quick-check-plus-hb-strips-50",
+      "name": "QUIK-CHECK Plus Hb Hemoglobin Test Strips",
+      "description": "Quick Check Plus Hb strips are designed for compatible handheld hemoglobin meters. Each pack contains 50 test strips, 50 capillary tubes, a code chip and package insert for professional hemoglobin and hematocrit testing.",
+      "image": "https://www.venushealthcare.net/products/quick-check-plus-hb-strips-50.png",
+      "brand": "ACON",
+      "features": [
+        "Pack of 50 test strips",
+        "Includes 50 capillary tubes",
+        "Includes code chip and package insert",
+        "For compatible Quick Check Plus meters",
+        "Professional-use consumable",
+        "Bulk supply enquiries supported"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD LipidoCare Lipid Profile Test Strips",
+          "url": "https://www.venushealthcare.net/products/standard-lipidocare-lipid-profile-test-strips"
+        },
+        {
+          "name": "Mission HemoPro Hemoglobin Microcuvettes 200",
+          "url": "https://www.venushealthcare.net/products/mission-hemopro-hemoglobin-microcuvettes-200"
+        },
+        {
+          "name": "Accuvet Sterile Lancets 100",
+          "url": "https://www.venushealthcare.net/products/safety-lancets"
+        }
+      ],
+      "manufacturer_company": "ACON",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "Quick Check Plus Hb strips are designed for compatible handheld hemoglobin meters. Each pack contains 50 test strips, 50 capillary tubes, a code chip and package insert for professional hemoglobin and hematocrit testing.",
+      "tests_performed": [
+        "Hemoglobin testing",
+        "Anemia-screening programmes",
+        "Clinic and hospital supply"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/quick-check-plus-hemoglobin-meter",
+      "name": "Quick Check Plus Hemoglobin Meter",
+      "description": "Quick Check Plus combines a clear LCD display, automatic calibration and data storage in a handheld system. It supports fast hemoglobin assessment in clinics, hospitals and screening settings.",
+      "image": "https://www.venushealthcare.net/products/quickcheck-hb.png",
+      "brand": "ACON",
+      "features": [
+        "Hemoglobin and hematocrit results",
+        "Results in approximately 15 seconds",
+        "Automatic calibration",
+        "LCD display and result storage"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "Mission HemoPro Hemoglobin Meter",
+          "url": "https://www.venushealthcare.net/products/mission-hemopro-hemoglobin-meter"
+        }
+      ],
+      "manufacturer_company": "ACON",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "Quick Check Plus combines a clear LCD display, automatic calibration and data storage in a handheld system. It supports fast hemoglobin assessment in clinics, hospitals and screening settings.",
+      "tests_performed": [
+        "Anemia screening",
+        "General health assessment",
+        "Clinic and field use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/quick-check-ultra-cholesterol-meter",
+      "name": "Quick Check Ultra Cholesterol Meter",
+      "description": "A convenient cholesterol-monitoring system for clinics, hospitals and screening use. Auto-calibration and a portable format support a simple day-to-day testing workflow.",
+      "image": "https://www.venushealthcare.net/products/quickcheck-cholesterol.png",
+      "brand": "ACON",
+      "features": [
+        "Results in approximately 15-70 seconds",
+        "Uses approximately 4 µL capillary blood",
+        "Auto-calibrated workflow",
+        "Compact and portable"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD LipidoCare Analyzer",
+          "url": "https://www.venushealthcare.net/products/standard-lipidocare-analyzer"
+        }
+      ],
+      "manufacturer_company": "ACON",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "A convenient cholesterol-monitoring system for clinics, hospitals and screening use. Auto-calibration and a portable format support a simple day-to-day testing workflow.",
+      "tests_performed": [
+        "Cholesterol screening",
+        "Cardiovascular-risk assessment",
+        "Clinic and outreach testing"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/renal-function-analysis-meter",
+      "name": "Renal Function Analysis Meter",
+      "description": "This rechargeable reflectance-based meter supports quantitative testing of uric acid, creatinine and urea across multiple accepted sample types. It is suited to clinics, hospitals and laboratories seeking a compact renal-testing workflow.",
+      "image": "https://www.venushealthcare.net/products/renal-function-meter.png",
+      "brand": "Accurex",
+      "features": [
+        "Uric Acid, Creatinine and Urea",
+        "Capillary, venous, plasma and serum samples",
+        "Stores up to 500 records",
+        "Rechargeable-battery operation"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "BeneCheck Plus Uric Acid Meter",
+          "url": "https://www.venushealthcare.net/products/benecheck-plus-uric-acid-meter"
+        }
+      ],
+      "manufacturer_company": "Accurex",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "This rechargeable reflectance-based meter supports quantitative testing of uric acid, creatinine and urea across multiple accepted sample types. It is suited to clinics, hospitals and laboratories seeking a compact renal-testing workflow.",
+      "tests_performed": [
+        "Renal-function assessment",
+        "Clinic and hospital testing",
+        "Laboratory and outreach use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/safety-lancets",
+      "name": "Accuvet Sterile Lancets 100",
+      "description": "Safety lancets support consistent capillary sampling for point-of-care testing. Multiple pack sizes and specifications may be available for clinics, hospitals, laboratories and outreach programmes.",
+      "image": "https://www.venushealthcare.net/products/accuvet-lancets-clean.png",
+      "brand": "Accuvet",
+      "features": [
+        "Single-use safety design",
+        "Suitable for capillary sampling",
+        "Bulk supply enquiries supported",
+        "Pack options subject to availability"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD LipidoCare Lipid Profile Test Strips",
+          "url": "https://www.venushealthcare.net/products/standard-lipidocare-lipid-profile-test-strips"
+        },
+        {
+          "name": "Mission HemoPro Hemoglobin Microcuvettes 200",
+          "url": "https://www.venushealthcare.net/products/mission-hemopro-hemoglobin-microcuvettes-200"
+        },
+        {
+          "name": "SD CodeFree Test Strips 100",
+          "url": "https://www.venushealthcare.net/products/sd-codefree-test-strips-100"
+        }
+      ],
+      "manufacturer_company": "Accuvet",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "Safety lancets support consistent capillary sampling for point-of-care testing. Multiple pack sizes and specifications may be available for clinics, hospitals, laboratories and outreach programmes.",
+      "tests_performed": [
+        "Point-of-care sampling",
+        "Screening camps",
+        "Clinic and laboratory use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/sd-codefree-blood-glucose-meter",
+      "name": "SD CodeFree Blood Glucose Meter",
+      "description": "The SD CodeFree blood glucose monitoring system is designed for straightforward glucose testing from fresh capillary whole blood. Its handheld format and dedicated SD CodeFree strips support convenient day-to-day monitoring.",
+      "image": "https://www.venushealthcare.net/products/sd-codefree-meter.jpg",
+      "brand": "SD Biosensor",
+      "features": [
+        "Measurement range: 10-600 mg/dL",
+        "Fresh capillary whole-blood sample",
+        "Compatible with SD CodeFree test strips",
+        "Compact handheld design",
+        "For in-vitro diagnostic use"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD GlucoNavii GDH Blood Glucose Meter",
+          "url": "https://www.venushealthcare.net/products/standard-gluconavii-gdh-blood-glucose-meter"
+        },
+        {
+          "name": "STANDARD Mentor Blood Glucose Meter",
+          "url": "https://www.venushealthcare.net/products/standard-mentor-blood-glucose-meter"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "The SD CodeFree blood glucose monitoring system is designed for straightforward glucose testing from fresh capillary whole blood. Its handheld format and dedicated SD CodeFree strips support convenient day-to-day monitoring.",
+      "tests_performed": [
+        "Routine blood glucose monitoring",
+        "Diabetes-care support",
+        "Home and professional use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/sd-codefree-test-strips-100",
+      "name": "SD CodeFree Test Strips 100",
+      "description": "SD CodeFree strips provide a straightforward blood-glucose testing workflow with compatible CodeFree meters. The 100-strip supply format is suitable for clinics and institutional procurement.",
+      "image": "https://www.venushealthcare.net/products/codefree-100-clean.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "Pack of 100 test strips",
+        "No-coding workflow",
+        "Result in approximately 5 seconds",
+        "For compatible SD CodeFree meters"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD LipidoCare Lipid Profile Test Strips",
+          "url": "https://www.venushealthcare.net/products/standard-lipidocare-lipid-profile-test-strips"
+        },
+        {
+          "name": "Mission HemoPro Hemoglobin Microcuvettes 200",
+          "url": "https://www.venushealthcare.net/products/mission-hemopro-hemoglobin-microcuvettes-200"
+        },
+        {
+          "name": "Accuvet Sterile Lancets 100",
+          "url": "https://www.venushealthcare.net/products/safety-lancets"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "SD CodeFree strips provide a straightforward blood-glucose testing workflow with compatible CodeFree meters. The 100-strip supply format is suitable for clinics and institutional procurement.",
+      "tests_performed": [
+        "Blood-glucose testing",
+        "Clinic supply",
+        "Institutional procurement"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/sd-gluconavii-gdh-test-strips-100",
+      "name": "SD GlucoNavii GDH Test Strips 100",
+      "description": "SD GlucoNavii GDH strips support low-volume blood-glucose testing with compatible meters. The 100-strip pack is available for professional, clinical and institutional supply requirements.",
+      "image": "https://www.venushealthcare.net/products/gluconavii-gdh-clean.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "Pack of 100 test strips",
+        "Approximately 0.5 µL sample",
+        "Measurement range: 10-600 mg/dL",
+        "For compatible GlucoNavii meters"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD LipidoCare Lipid Profile Test Strips",
+          "url": "https://www.venushealthcare.net/products/standard-lipidocare-lipid-profile-test-strips"
+        },
+        {
+          "name": "Mission HemoPro Hemoglobin Microcuvettes 200",
+          "url": "https://www.venushealthcare.net/products/mission-hemopro-hemoglobin-microcuvettes-200"
+        },
+        {
+          "name": "Accuvet Sterile Lancets 100",
+          "url": "https://www.venushealthcare.net/products/safety-lancets"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "SD GlucoNavii GDH strips support low-volume blood-glucose testing with compatible meters. The 100-strip pack is available for professional, clinical and institutional supply requirements.",
+      "tests_performed": [
+        "Blood-glucose testing",
+        "Clinic and hospital supply",
+        "Institutional procurement"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/sd-hba1c-fia-20-test-kit",
+      "name": "SD HbA1c FIA 20 Test Kit",
+      "description": "This professional-use FIA reagent pack supports quantitative HbA1c testing on a compatible STANDARD F analyzer. The 20-test format is suited to clinics, hospitals and laboratories managing routine diabetes-monitoring workflows.",
+      "image": "https://www.venushealthcare.net/products/hba1c-clean.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "20-test professional pack",
+        "Whole-blood HbA1c testing",
+        "Fluorescence immunoassay format",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "This professional-use FIA reagent pack supports quantitative HbA1c testing on a compatible STANDARD F analyzer. The 20-test format is suited to clinics, hospitals and laboratories managing routine diabetes-monitoring workflows.",
+      "tests_performed": [
+        "HbA1c testing",
+        "Glycemic-control monitoring",
+        "Diabetes-care programmes"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/sd-troponin-i-fia-20-test-kit",
+      "name": "STANDARD F TnI Pro FIA 20 Test Kit",
+      "description": "The STANDARD F TnI Pro FIA kit supports quantitative cardiac-marker testing in professional clinical settings. It is offered in a 20-test pack for compatible STANDARD F fluorescence analyzers.",
+      "image": "https://www.venushealthcare.net/products/tni-pro-clean.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "20-test professional pack",
+        "Blood-sample workflow",
+        "Fluorescence immunoassay format",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "The STANDARD F TnI Pro FIA kit supports quantitative cardiac-marker testing in professional clinical settings. It is offered in a 20-test pack for compatible STANDARD F fluorescence analyzers.",
+      "tests_performed": [
+        "Troponin I testing",
+        "Cardiac-marker workflow",
+        "Hospital and laboratory use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/sd-tsh-fia-20-test-kit",
+      "name": "SD TSH FIA 20 Test Kit",
+      "description": "The SD TSH FIA kit extends the STANDARD F workflow to quantitative thyroid testing. It is supplied as a 20-test professional pack for compatible analyzers, with current availability confirmed when quoted.",
+      "image": "https://www.venushealthcare.net/products/tsh-clean.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "20-test professional pack",
+        "Fluorescence immunoassay format",
+        "For compatible STANDARD F analyzers",
+        "Laboratory and point-of-care workflow"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "The SD TSH FIA kit extends the STANDARD F workflow to quantitative thyroid testing. It is supplied as a 20-test professional pack for compatible analyzers, with current availability confirmed when quoted.",
+      "tests_performed": [
+        "TSH testing",
+        "Thyroid-function assessment",
+        "Hospital and laboratory use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/sd-tsh-ii-fia-20-test-kit",
+      "name": "STANDARD F TSH-II FIA 20 Test Kit",
+      "description": "The STANDARD F TSH-II FIA kit supports professional quantitative thyroid-stimulating hormone testing. The 20-test pack is supplied for compatible STANDARD F fluorescence analyzers in clinic, hospital and laboratory workflows.",
+      "image": "https://www.venushealthcare.net/products/tsh-ii-clean.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "20-test professional pack",
+        "Fluorescence immunoassay format",
+        "For compatible STANDARD F analyzers",
+        "Catalogue number RK087-20"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "The STANDARD F TSH-II FIA kit supports professional quantitative thyroid-stimulating hormone testing. The 20-test pack is supplied for compatible STANDARD F fluorescence analyzers in clinic, hospital and laboratory workflows.",
+      "tests_performed": [
+        "TSH testing",
+        "Thyroid-function assessment",
+        "Hospital and laboratory use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/semi-automatic-chemistry-analyzer",
+      "name": "Semi-Automatic Chemistry Analyzer",
+      "description": "A practical solution for laboratories that require flexible batch testing across routine chemistry parameters. Contact Venus Health Care to match the available configuration with your test volume and menu.",
+      "image": "https://www.venushealthcare.net/products/semi-auto-analyzer.png",
+      "brand": "Clinical Chemistry",
+      "features": [
+        "Semi-automatic workflow",
+        "Integrated display",
+        "Multiple configurations available",
+        "Application and installation guidance"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "Fully Automated Immunoassay Analyzer",
+          "url": "https://www.venushealthcare.net/products/fully-automated-immunoassay-analyzer"
+        },
+        {
+          "name": "Fully Automated 200 T/H Clinical Analyzer",
+          "url": "https://www.venushealthcare.net/products/fully-automated-200-tph-chemistry-analyzer"
+        }
+      ],
+      "manufacturer_company": "Clinical Chemistry",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "A practical solution for laboratories that require flexible batch testing across routine chemistry parameters. Contact Venus Health Care to match the available configuration with your test volume and menu.",
+      "tests_performed": [
+        "Routine clinical chemistry",
+        "Small and mid-volume laboratories",
+        "Clinic laboratory setup"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/sinocare-icare-2100-analyzer",
+      "name": "Sinocare iCARE-2100 Analyzer",
+      "description": "The Sinocare iCARE-2100 is a compact liquid-phase point-of-care analyzer designed for on-demand clinical testing. Prefilled reagent cartridges, touchscreen-guided operation and a simple three-step workflow help clinics and laboratories produce multi-parameter results with minimal preparation and maintenance.",
+      "image": "https://www.venushealthcare.net/products/icare-2100.jpg",
+      "brand": "Sinocare",
+      "features": [
+        "Supports 16 reagent cartridge types and 37 indicators",
+        "Typical test time: 3-15 minutes",
+        "Liquid-phase iPOCT reaction system",
+        "Automatic operation with prefilled cartridges",
+        "Multi-parameter testing on one compact platform"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F200 Analyzer",
+          "url": "https://www.venushealthcare.net/products/standard-f200-analyzer"
+        },
+        {
+          "name": "STANDARD F2400 Analyzer",
+          "url": "https://www.venushealthcare.net/products/standard-f2400-analyzer"
+        },
+        {
+          "name": "FIA Flex Analyzer",
+          "url": "https://www.venushealthcare.net/products/fia-flex-analyzer"
+        }
+      ],
+      "manufacturer_company": "Sinocare",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "The Sinocare iCARE-2100 is a compact liquid-phase point-of-care analyzer designed for on-demand clinical testing. Prefilled reagent cartridges, touchscreen-guided operation and a simple three-step workflow help clinics and laboratories produce multi-parameter results with minimal preparation and maintenance.",
+      "tests_performed": [
+        "HbA1c and diabetes monitoring",
+        "Lipid and liver-function testing",
+        "Renal-function and ACR testing",
+        "Coagulation and specific-protein testing",
+        "Clinic, hospital and laboratory point-of-care workflows"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-amh-fia",
+      "name": "STANDARD F AMH FIA",
+      "description": "STANDARD F AMH FIA is supplied for professional anti-Müllerian hormone testing with compatible STANDARD F fluorescence analyzers.",
+      "image": "https://www.venushealthcare.net/products/f200-amh.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "20 test devices",
+        "20 extraction buffers",
+        "20 disposable 100 µL droppers",
+        "Storage: 2-30°C",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD F AMH FIA is supplied for professional anti-Müllerian hormone testing with compatible STANDARD F fluorescence analyzers.",
+      "tests_performed": [
+        "AMH testing",
+        "Reproductive-health testing workflows",
+        "Professional in-vitro diagnostic use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-beta-hcg-fia",
+      "name": "STANDARD F β-hCG FIA",
+      "description": "STANDARD F β-hCG FIA is supplied for professional beta-hCG testing with compatible STANDARD F fluorescence analyzers.",
+      "image": "https://www.venushealthcare.net/products/f200-beta-hcg.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "20 test devices",
+        "20 extraction buffers",
+        "Pipettes and droppers included",
+        "Storage: 2-30°C",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD F β-hCG FIA is supplied for professional beta-hCG testing with compatible STANDARD F fluorescence analyzers.",
+      "tests_performed": [
+        "β-hCG testing",
+        "Clinical laboratory workflows",
+        "Professional in-vitro diagnostic use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-crp-fia",
+      "name": "STANDARD F CRP FIA",
+      "description": "STANDARD F CRP FIA supports professional inflammatory-marker testing using compatible STANDARD F fluorescence analyzers.",
+      "image": "https://www.venushealthcare.net/products/f200-crp.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "20 test devices",
+        "20 extraction buffers",
+        "Storage: 2-30°C",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD F CRP FIA supports professional inflammatory-marker testing using compatible STANDARD F fluorescence analyzers.",
+      "tests_performed": [
+        "CRP testing",
+        "Inflammation assessment workflows",
+        "Professional in-vitro diagnostic use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-d-dimer-fia",
+      "name": "STANDARD F D-dimer FIA",
+      "description": "STANDARD F D-dimer FIA supports professional coagulation-marker testing using compatible STANDARD F fluorescence analyzers.",
+      "image": "https://www.venushealthcare.net/products/f200-d-dimer.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "20 test devices",
+        "20 extraction buffers",
+        "20 STANDARD Ezi tubes and droppers",
+        "Storage: 2-30°C",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD F D-dimer FIA supports professional coagulation-marker testing using compatible STANDARD F fluorescence analyzers.",
+      "tests_performed": [
+        "D-dimer testing",
+        "Coagulation assessment workflows",
+        "Professional in-vitro diagnostic use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia",
+      "name": "STANDARD F Dengue IgM/IgG FIA",
+      "description": "STANDARD F Dengue IgM/IgG FIA is supplied for professional dengue antibody testing with compatible STANDARD F fluorescence analyzers.",
+      "image": "https://www.venushealthcare.net/products/f200-dengue-igm-igg.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "25 test devices",
+        "25 STANDARD Ezi tubes (10 µL)",
+        "Assay diluent included",
+        "Storage: 2-30°C",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        },
+        {
+          "name": "STANDARD F Vitamin D FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-vitamin-d-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD F Dengue IgM/IgG FIA is supplied for professional dengue antibody testing with compatible STANDARD F fluorescence analyzers.",
+      "tests_performed": [
+        "Dengue IgM/IgG testing",
+        "Hospital and laboratory workflows",
+        "Professional in-vitro diagnostic use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia",
+      "name": "STANDARD F Dengue NS1 Ag FIA",
+      "description": "STANDARD F Dengue NS1 Ag FIA is an in-vitro diagnostic reagent kit for use with compatible STANDARD F fluorescence analyzers. The institutional pack contains individually pouched test devices and the required assay accessories.",
+      "image": "https://www.venushealthcare.net/products/f200-dengue-ns1.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "25 test devices",
+        "25 disposable 100 µL droppers",
+        "25 assay diluent units",
+        "Storage: 2-30°C",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        },
+        {
+          "name": "STANDARD F Vitamin D FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-vitamin-d-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD F Dengue NS1 Ag FIA is an in-vitro diagnostic reagent kit for use with compatible STANDARD F fluorescence analyzers. The institutional pack contains individually pouched test devices and the required assay accessories.",
+      "tests_performed": [
+        "Dengue NS1 antigen testing",
+        "Hospital and laboratory workflows",
+        "Professional in-vitro diagnostic use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-ft4-fia-20-test-kit",
+      "name": "STANDARD F fT4 FIA 20 Test Kit",
+      "description": "The STANDARD F fT4 FIA kit supports professional quantitative free-thyroxine testing. The 20-test pack is designed for compatible STANDARD F fluorescence analyzers used in clinic, hospital and laboratory thyroid workflows.",
+      "image": "https://www.venushealthcare.net/products/ft4-clean.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "20-test professional pack",
+        "Fluorescence immunoassay format",
+        "For compatible STANDARD F analyzers",
+        "Catalogue number RK042-20"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "The STANDARD F fT4 FIA kit supports professional quantitative free-thyroxine testing. The 20-test pack is designed for compatible STANDARD F fluorescence analyzers used in clinic, hospital and laboratory thyroid workflows.",
+      "tests_performed": [
+        "Free T4 testing",
+        "Thyroid-function assessment",
+        "Hospital and laboratory use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-h-pylori-ag-fia",
+      "name": "STANDARD F H. pylori Ag FIA",
+      "description": "STANDARD F H. pylori Ag FIA supports professional Helicobacter pylori antigen testing using compatible STANDARD F fluorescence analyzers.",
+      "image": "https://www.venushealthcare.net/products/f200-h-pylori.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "25 test devices",
+        "25 extraction buffer tubes",
+        "Filter caps and sterile swabs included",
+        "Storage: 2-30°C",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD F H. pylori Ag FIA supports professional Helicobacter pylori antigen testing using compatible STANDARD F fluorescence analyzers.",
+      "tests_performed": [
+        "H. pylori antigen testing",
+        "Gastrointestinal testing workflows",
+        "Professional in-vitro diagnostic use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-hbsag-fia",
+      "name": "STANDARD F HBsAg FIA",
+      "description": "STANDARD F HBsAg FIA supports professional hepatitis B surface antigen testing using compatible STANDARD F fluorescence analyzers.",
+      "image": "https://www.venushealthcare.net/products/f200-hbsag.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "25 test devices",
+        "25 extraction buffers",
+        "25 disposable 100 µL droppers",
+        "Storage: 2-30°C",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD F HBsAg FIA supports professional hepatitis B surface antigen testing using compatible STANDARD F fluorescence analyzers.",
+      "tests_performed": [
+        "HBsAg testing",
+        "Hospital and laboratory workflows",
+        "Professional in-vitro diagnostic use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia",
+      "name": "STANDARD F HCV Ab FIA",
+      "description": "STANDARD F HCV Ab FIA supports professional HCV antibody testing using compatible STANDARD F fluorescence analyzers.",
+      "image": "https://www.venushealthcare.net/products/f200-hcv-ab.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "25 test devices",
+        "Buffer bottle included",
+        "25 STANDARD Ezi tubes (10 µL)",
+        "Storage: 2-30°C",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F Vitamin D FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-vitamin-d-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD F HCV Ab FIA supports professional HCV antibody testing using compatible STANDARD F fluorescence analyzers.",
+      "tests_performed": [
+        "HCV antibody testing",
+        "Hospital and laboratory workflows",
+        "Professional in-vitro diagnostic use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-hiv-ag-ab-fia",
+      "name": "STANDARD F HIV Ag/Ab FIA",
+      "description": "STANDARD F HIV Ag/Ab FIA is supplied for professional HIV antigen and antibody testing with compatible STANDARD F fluorescence analyzers.",
+      "image": "https://www.venushealthcare.net/products/f200-hiv-ag-ab.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "25 test devices",
+        "25 extraction buffers",
+        "25 disposable 100 µL droppers",
+        "Storage: 2-30°C",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD F HIV Ag/Ab FIA is supplied for professional HIV antigen and antibody testing with compatible STANDARD F fluorescence analyzers.",
+      "tests_performed": [
+        "HIV Ag/Ab testing",
+        "Hospital and laboratory workflows",
+        "Professional in-vitro diagnostic use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-nt-probnp-fia",
+      "name": "STANDARD F NT-proBNP FIA",
+      "description": "STANDARD F NT-proBNP FIA supports professional cardiac biomarker testing using compatible STANDARD F fluorescence analyzers.",
+      "image": "https://www.venushealthcare.net/products/f200-nt-probnp.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "20 test devices",
+        "20 extraction buffers",
+        "20 disposable 100 µL droppers",
+        "Storage: 2-30°C",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD F NT-proBNP FIA supports professional cardiac biomarker testing using compatible STANDARD F fluorescence analyzers.",
+      "tests_performed": [
+        "NT-proBNP testing",
+        "Cardiac assessment workflows",
+        "Professional in-vitro diagnostic use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-pct-fia",
+      "name": "STANDARD F PCT FIA",
+      "description": "STANDARD F PCT FIA supports professional procalcitonin testing using compatible STANDARD F fluorescence analyzers.",
+      "image": "https://www.venushealthcare.net/products/f200-pct.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "20 test devices",
+        "20 extraction buffers",
+        "20 disposable 100 µL droppers",
+        "Storage: 2-30°C",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD F PCT FIA supports professional procalcitonin testing using compatible STANDARD F fluorescence analyzers.",
+      "tests_performed": [
+        "PCT testing",
+        "Infection-marker workflows",
+        "Professional in-vitro diagnostic use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-t3-fia",
+      "name": "STANDARD F T3 FIA",
+      "description": "STANDARD F T3 FIA is supplied for professional thyroid testing with compatible STANDARD F fluorescence analyzers.",
+      "image": "https://www.venushealthcare.net/products/f200-t3.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "20 test devices",
+        "20 extraction buffers",
+        "Storage: 2-30°C",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD F T3 FIA is supplied for professional thyroid testing with compatible STANDARD F fluorescence analyzers.",
+      "tests_performed": [
+        "T3 testing",
+        "Thyroid assessment workflows",
+        "Professional in-vitro diagnostic use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-t4-fia",
+      "name": "STANDARD F T4 FIA",
+      "description": "STANDARD F T4 FIA is supplied for professional thyroid testing with compatible STANDARD F fluorescence analyzers.",
+      "image": "https://www.venushealthcare.net/products/f200-t4.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "20 test devices",
+        "20 extraction buffers",
+        "20 disposable droppers",
+        "Storage: 2-30°C",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD F T4 FIA is supplied for professional thyroid testing with compatible STANDARD F fluorescence analyzers.",
+      "tests_performed": [
+        "T4 testing",
+        "Thyroid assessment workflows",
+        "Professional in-vitro diagnostic use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-tsutsugamushi-igm-igg-fia",
+      "name": "STANDARD F Tsutsugamushi IgM/IgG FIA",
+      "description": "STANDARD F Tsutsugamushi IgM/IgG FIA supports professional scrub-typhus antibody testing using compatible STANDARD F fluorescence analyzers.",
+      "image": "https://www.venushealthcare.net/products/f200-tsutsugamushi.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "25 test devices",
+        "25 STANDARD Ezi tubes (10 µL)",
+        "Assay diluent included",
+        "Storage: 2-30°C",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD F Tsutsugamushi IgM/IgG FIA supports professional scrub-typhus antibody testing using compatible STANDARD F fluorescence analyzers.",
+      "tests_performed": [
+        "Tsutsugamushi IgM/IgG testing",
+        "Scrub-typhus testing workflows",
+        "Professional in-vitro diagnostic use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-u-albumin-fia",
+      "name": "STANDARD F U-Albumin FIA",
+      "description": "STANDARD F U-Albumin FIA supports professional urinary albumin testing using compatible STANDARD F fluorescence analyzers.",
+      "image": "https://www.venushealthcare.net/products/f200-u-albumin.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "20 test devices",
+        "20 extraction buffers",
+        "Storage: 2-30°C",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD F U-Albumin FIA supports professional urinary albumin testing using compatible STANDARD F fluorescence analyzers.",
+      "tests_performed": [
+        "Urinary albumin testing",
+        "Renal assessment workflows",
+        "Professional in-vitro diagnostic use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f-vitamin-d-fia",
+      "name": "STANDARD F Vitamin D FIA",
+      "description": "STANDARD F Vitamin D FIA is designed for professional Vitamin D testing with compatible STANDARD F fluorescence analyzers.",
+      "image": "https://www.venushealthcare.net/products/f200-vitamin-d.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "20 test devices",
+        "Reaction tablets and buffer included",
+        "Storage: 2-30°C",
+        "For compatible STANDARD F analyzers"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F Dengue NS1 Ag FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-ns1-ag-fia"
+        },
+        {
+          "name": "STANDARD F Dengue IgM/IgG FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-dengue-igm-igg-fia"
+        },
+        {
+          "name": "STANDARD F HCV Ab FIA",
+          "url": "https://www.venushealthcare.net/products/standard-f-hcv-ab-fia"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD F Vitamin D FIA is designed for professional Vitamin D testing with compatible STANDARD F fluorescence analyzers.",
+      "tests_performed": [
+        "Vitamin D testing",
+        "Clinic and laboratory workflows",
+        "Professional in-vitro diagnostic use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f200-analyzer",
+      "name": "STANDARD F200 Analyzer",
+      "description": "The STANDARD F200 supports a broad menu across diabetes, inflammation, cardiac, thyroid and infectious-disease testing. Its touchscreen workflow, result storage and connectivity make it a strong fit for hospitals, laboratories and busy clinics.",
+      "image": "https://www.venushealthcare.net/products/standard-f200.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "Fluorescent immunoassay technology",
+        "Touchscreen-guided operation",
+        "LIS/HIS connectivity support",
+        "Stores up to 3,000 results",
+        "Broad multi-parameter test menu"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "Sinocare iCARE-2100 Analyzer",
+          "url": "https://www.venushealthcare.net/products/sinocare-icare-2100-analyzer"
+        },
+        {
+          "name": "STANDARD F2400 Analyzer",
+          "url": "https://www.venushealthcare.net/products/standard-f2400-analyzer"
+        },
+        {
+          "name": "FIA Flex Analyzer",
+          "url": "https://www.venushealthcare.net/products/fia-flex-analyzer"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "The STANDARD F200 supports a broad menu across diabetes, inflammation, cardiac, thyroid and infectious-disease testing. Its touchscreen workflow, result storage and connectivity make it a strong fit for hospitals, laboratories and busy clinics.",
+      "tests_performed": [
+        "HbA1c",
+        "CRP and PCT",
+        "Troponin I and CK-MB",
+        "T3, T4 and TSH",
+        "Dengue NS1 / IgG / IgM",
+        "Vitamin D and Microalbumin",
+        "HIV, HBsAg, HCV and Scrub typhus"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-f2400-analyzer",
+      "name": "STANDARD F2400 Analyzer",
+      "description": "The STANDARD F2400 is a benchtop fluorescent immunoassay system that uses fluorescent beads and an UV LED energy source for sensitive qualitative and quantitative testing. Its automated 24-test workflow, large touchscreen and LIS/HIS connectivity suit hospitals and medium-to-high-volume laboratories.",
+      "image": "https://www.venushealthcare.net/products/standard-f2400.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "Processes up to 24 tests simultaneously",
+        "10.1-inch colour TFT touchscreen",
+        "Stores up to 5,000 test results",
+        "HL7 LIS/HIS connectivity support",
+        "Dimensions: 510 × 566 × 297 mm",
+        "Weight: 20 kg"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "STANDARD F200 Analyzer",
+          "url": "https://www.venushealthcare.net/products/standard-f200-analyzer"
+        },
+        {
+          "name": "Sinocare iCARE-2100 Analyzer",
+          "url": "https://www.venushealthcare.net/products/sinocare-icare-2100-analyzer"
+        },
+        {
+          "name": "FIA Flex Analyzer",
+          "url": "https://www.venushealthcare.net/products/fia-flex-analyzer"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "The STANDARD F2400 is a benchtop fluorescent immunoassay system that uses fluorescent beads and an UV LED energy source for sensitive qualitative and quantitative testing. Its automated 24-test workflow, large touchscreen and LIS/HIS connectivity suit hospitals and medium-to-high-volume laboratories.",
+      "tests_performed": [
+        "Fluorescent immunoassay testing",
+        "Quantitative and qualitative biomarkers",
+        "Hospital and laboratory workflows",
+        "High-volume point-of-care testing"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-gluconavii-gdh-blood-glucose-meter",
+      "name": "STANDARD GlucoNavii GDH Blood Glucose Meter",
+      "description": "STANDARD GlucoNavii GDH uses GDH-FAD enzyme technology to measure glucose from capillary, venous, arterial and neonatal whole blood. It is suited to users who need a flexible, easy-to-read glucose monitoring workflow.",
+      "image": "https://www.venushealthcare.net/products/standard-gluconavii-gdh-meter.jpg",
+      "brand": "SD Biosensor",
+      "features": [
+        "GDH-FAD enzyme technology",
+        "Capillary, venous, arterial and neonatal whole blood",
+        "Compatible with STANDARD GlucoNavii GDH test strips",
+        "Large digital display",
+        "For in-vitro diagnostic use"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "SD CodeFree Blood Glucose Meter",
+          "url": "https://www.venushealthcare.net/products/sd-codefree-blood-glucose-meter"
+        },
+        {
+          "name": "STANDARD Mentor Blood Glucose Meter",
+          "url": "https://www.venushealthcare.net/products/standard-mentor-blood-glucose-meter"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD GlucoNavii GDH uses GDH-FAD enzyme technology to measure glucose from capillary, venous, arterial and neonatal whole blood. It is suited to users who need a flexible, easy-to-read glucose monitoring workflow.",
+      "tests_performed": [
+        "Blood glucose monitoring",
+        "Clinic and hospital testing",
+        "Diabetes-care support"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-lipidocare-analyzer",
+      "name": "STANDARD LipidoCare Analyzer",
+      "description": "STANDARD LipidoCare offers a practical lipid-testing workflow in a compact format. It is designed for clinics, screening programmes and other settings that need convenient cholesterol measurements with simple strip storage.",
+      "image": "https://www.venushealthcare.net/products/standard-lipidocare.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "Portable, compact format",
+        "Room-temperature strip storage",
+        "Simple point-of-care workflow",
+        "Designed for rapid lipid assessment"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "Quick Check Ultra Cholesterol Meter",
+          "url": "https://www.venushealthcare.net/products/quick-check-ultra-cholesterol-meter"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD LipidoCare offers a practical lipid-testing workflow in a compact format. It is designed for clinics, screening programmes and other settings that need convenient cholesterol measurements with simple strip storage.",
+      "tests_performed": [
+        "Total Cholesterol",
+        "Triglycerides",
+        "HDL",
+        "LDL",
+        "LDL/HDL",
+        "Non-HDL"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-lipidocare-lipid-profile-test-strips",
+      "name": "STANDARD LipidoCare Lipid Profile Test Strips",
+      "description": "STANDARD LipidoCare Lipid Profile Test Strips are designed exclusively for the STANDARD LipidoCare analyzer. They measure total cholesterol, triglycerides and HDL cholesterol, while the analyzer calculates LDL, LDL/HDL and non-HDL results for professional lipid-screening workflows.",
+      "image": "https://www.venushealthcare.net/products/lipidocare-lipid-test-strips.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "Measures TC, TG and HDL cholesterol",
+        "Calculates LDL, LDL/HDL and non-HDL",
+        "Requires approximately 35 µL of blood",
+        "Individually sealed strips",
+        "Room-temperature storage: 2-32°C",
+        "For compatible STANDARD LipidoCare analyzers only"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "Mission HemoPro Hemoglobin Microcuvettes 200",
+          "url": "https://www.venushealthcare.net/products/mission-hemopro-hemoglobin-microcuvettes-200"
+        },
+        {
+          "name": "Accuvet Sterile Lancets 100",
+          "url": "https://www.venushealthcare.net/products/safety-lancets"
+        },
+        {
+          "name": "SD CodeFree Test Strips 100",
+          "url": "https://www.venushealthcare.net/products/sd-codefree-test-strips-100"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD LipidoCare Lipid Profile Test Strips are designed exclusively for the STANDARD LipidoCare analyzer. They measure total cholesterol, triglycerides and HDL cholesterol, while the analyzer calculates LDL, LDL/HDL and non-HDL results for professional lipid-screening workflows.",
+      "tests_performed": [
+        "Lipid-profile testing",
+        "Cardiovascular-risk screening",
+        "Clinic and laboratory use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/standard-mentor-blood-glucose-meter",
+      "name": "STANDARD Mentor Blood Glucose Meter",
+      "description": "STANDARD Mentor is designed to provide accurate glucose measurements using a small 0.3 µL blood sample. Its no-coding workflow, result memory and meal markers make routine diabetes monitoring simple and organized.",
+      "image": "https://www.venushealthcare.net/products/standard-mentor-meter.jpg",
+      "brand": "SD Biosensor",
+      "features": [
+        "Sample volume: approximately 0.3 µL",
+        "Result time: approximately 5 seconds",
+        "Measurement range: 10-600 mg/dL",
+        "Stores up to 500 results",
+        "Compatible with STANDARD Mentor test strips"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "SD CodeFree Blood Glucose Meter",
+          "url": "https://www.venushealthcare.net/products/sd-codefree-blood-glucose-meter"
+        },
+        {
+          "name": "STANDARD GlucoNavii GDH Blood Glucose Meter",
+          "url": "https://www.venushealthcare.net/products/standard-gluconavii-gdh-blood-glucose-meter"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "STANDARD Mentor is designed to provide accurate glucose measurements using a small 0.3 µL blood sample. Its no-coding workflow, result memory and meal markers make routine diabetes monitoring simple and organized.",
+      "tests_performed": [
+        "Routine blood glucose monitoring",
+        "Pre- and post-meal tracking",
+        "Home and professional use"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/ultra-c20-hplc-analyzer",
+      "name": "ULTRA C20 HPLC Analyzer",
+      "description": "The SD Biosensor ULTRA C20 is a fully automated ion-exchange HPLC analyzer for HbA1c and hemoglobin-variant workflows. It combines three selectable test modes, a 20-sample continuous autoloader, barcode reading and LIS connectivity in a compact laboratory system.",
+      "image": "https://www.venushealthcare.net/products/ultra-c20-hplc-analyzer.png",
+      "brand": "SD Biosensor",
+      "features": [
+        "Ion-exchange HPLC method",
+        "Fast mode: 90 seconds per test",
+        "Fast Variant mode: 115 seconds per test",
+        "Variant mode: 150 seconds per test",
+        "20-sample continuous autoloader",
+        "Whole-blood sample volume: 5 µL",
+        "Built-in barcode reader and LIS connectivity",
+        "10-inch touchscreen display"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "Xpress A1c Meter",
+          "url": "https://www.venushealthcare.net/products/xpress-a1c-meter"
+        }
+      ],
+      "manufacturer_company": "SD Biosensor",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "The SD Biosensor ULTRA C20 is a fully automated ion-exchange HPLC analyzer for HbA1c and hemoglobin-variant workflows. It combines three selectable test modes, a 20-sample continuous autoloader, barcode reading and LIS connectivity in a compact laboratory system.",
+      "tests_performed": [
+        "HbA1c testing",
+        "Hemoglobin-variant analysis",
+        "Diabetes-monitoring workflows",
+        "Hospital and clinical laboratories"
+      ]
+    },
+    {
+      "url": "https://www.venushealthcare.net/products/xpress-a1c-meter",
+      "name": "Xpress A1c Meter",
+      "description": "The Xpress A1c is designed to deliver rapid HbA1c results without separate pipetting or lysing steps. Its handheld format supports convenient long-term glucose-control assessment near the patient.",
+      "image": "https://www.venushealthcare.net/products/xpress-a1c.png",
+      "brand": "Accurex",
+      "features": [
+        "HbA1c result in approximately 5 minutes",
+        "Uses approximately 3 µL blood",
+        "No separate pipetting or lysing",
+        "Compact point-of-care format"
+      ],
+      "applications": [],
+      "related_products": [
+        {
+          "name": "ULTRA C20 HPLC Analyzer",
+          "url": "https://www.venushealthcare.net/products/ultra-c20-hplc-analyzer"
+        }
+      ],
+      "manufacturer_company": "Accurex",
+      "importer_company": "",
+      "country_of_manufacture": "",
+      "supplier_company": "Venus Health Care",
+      "company_name": "Venus Health Care",
+      "company_profile": "Coimbatore-based supplier of point-of-care analyzers, medical diagnostic instruments, meters, test strips and laboratory consumables serving healthcare teams across India.",
+      "phone": "+91-97891-43637, +91-97891-44435",
+      "email": "venushealthcare2017@gmail.com",
+      "website": "https://www.venushealthcare.net",
+      "company_address": "2/383-1, First Floor, Brindhavan Nagar, Bodipalayam, Coimbatore, Tamil Nadu, 641105, IN",
+      "brochure_links": [],
+      "machine_usage": "The Xpress A1c is designed to deliver rapid HbA1c results without separate pipetting or lysing steps. Its handheld format supports convenient long-term glucose-control assessment near the patient.",
+      "tests_performed": [
+        "HbA1c testing",
+        "Diabetes monitoring",
+        "Clinic and outreach use"
+      ]
+    }
+  ],
+  "errors": []
+}
