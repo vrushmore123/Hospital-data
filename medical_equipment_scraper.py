@@ -21,6 +21,10 @@ FIELDS = [
     "company_location_address", "company_profile_description", "product_brochure_link",
     "product_source_link", "source_website",
 ]
+PHONE_LOOSE_RE = re.compile(r"\+?\d[\d\-\s]{8,15}\d")
+EMAIL_RE = re.compile(r"[\w.+-]+@[\w-]+\.[\w.-]+")
+PIN_RE = re.compile(r"\b\d{3}[\s-]?\d{3}\b")
+ADDRESS_LABELS = ("Corporate Office", "Registered Office", "Regd. Office", "Regd Office", "Head Office", "Office")
 
 
 def clean(value: Any) -> str:
@@ -70,16 +74,17 @@ def address_text(value: Any) -> str:
 
 def labeled_text(soup: BeautifulSoup, labels: tuple[str, ...]) -> str:
     pattern = re.compile(r"^(?:" + "|".join(re.escape(label) for label in labels) + r")\s*:?$", re.I)
+    label_starts = tuple(label.lower() for label in labels)
     for node in soup.find_all(string=pattern):
         parent = node.parent
-        if not parent:
+        if not parent or parent.find_parent("form"):
             continue
         sibling = parent.find_next_sibling()
         if sibling and clean(sibling.get_text(" ")):
             return clean(sibling.get_text(" "))
         container = parent.parent.get_text(" ") if parent.parent else ""
-        value = re.sub(pattern, "", clean(container)).strip(" :|- ")
-        if value:
+        value = re.sub(pattern, "", clean(container)).strip(" :|-*")
+        if value and not value.lower().startswith(label_starts):
             return value
     return ""
 
@@ -94,6 +99,9 @@ def links_matching(soup: BeautifulSoup, page_url: str, words: tuple[str, ...]) -
     return list(dict.fromkeys(values))
 
 
+PRODUCT_PATH_HINTS = ("/products/", "/product/", "/prod/", "/instrument/", "/instruments/", "/item/")
+
+
 def product_links(soup: BeautifulSoup, page_url: str) -> list[str]:
     base = urlsplit(page_url).netloc
     links = []
@@ -101,15 +109,73 @@ def product_links(soup: BeautifulSoup, page_url: str) -> list[str]:
         href = urljoin(page_url, link["href"]).split("#", 1)[0]
         parsed = urlsplit(href)
         label = clean(link.get_text(" "))
-        product_path = "/products/" in parsed.path or "/prod/" in parsed.path
+        product_path = any(hint in parsed.path.lower() for hint in PRODUCT_PATH_HINTS)
         if parsed.netloc == base and product_path and label:
             links.append(href)
     return list(dict.fromkeys(links))
 
 
+PRODUCT_TYPES = ("Product", "MedicalDevice")
+
+
 def is_product_page(url: str, soup: BeautifulSoup) -> bool:
-    path = urlsplit(url).path.lower()
-    return "/products/" in path or "/prod/" in path or bool(first_object(json_ld(soup), ("Product",)))
+    """True only for a genuine product detail page, not a category/listing hub.
+
+    A URL path hint alone is not enough: category pages (e.g. .../products/clinical-chemistry)
+    share the same path prefix as their own product detail pages.
+    """
+    return bool(first_object(json_ld(soup), PRODUCT_TYPES))
+
+
+def organization_phone(business: dict[str, Any]) -> str:
+    """schema.org Organization telephone is often nested under contactPoint, not a top-level field."""
+    if business.get("telephone"):
+        return clean(business["telephone"])
+    contact_points = business.get("contactPoint")
+    contact_points = [contact_points] if isinstance(contact_points, dict) else contact_points
+    for point in contact_points if isinstance(contact_points, list) else []:
+        if isinstance(point, dict) and point.get("telephone"):
+            return clean(point["telephone"])
+    return ""
+
+
+def extract_phone(text: str) -> str:
+    for match in PHONE_LOOSE_RE.finditer(text):
+        digits = re.sub(r"\D", "", match.group(0))
+        if digits.startswith("91") and len(digits) == 12:
+            return "+" + digits
+        if len(digits) == 10 and digits[0] in "6789":
+            return digits
+    return ""
+
+
+def extract_footer_address(text: str, company_name: str) -> str:
+    pin = PIN_RE.search(text)
+    if not pin:
+        return ""
+    end = pin.end()
+    window = text[max(0, end - 160):end]
+    anchor = -1
+    labels = ADDRESS_LABELS + ((company_name,) if company_name else ())
+    for label in labels:
+        index = window.rfind(label)
+        if index > anchor:
+            anchor = index + len(label)
+    return clean(window[anchor:end].strip(" ,.-")) if anchor != -1 else ""
+
+
+def footer_contact(soup: BeautifulSoup, company_name: str) -> dict[str, str]:
+    """Many corporate sites state registered address/phone/email only in the page footer."""
+    footer = soup.find("footer")
+    if not footer:
+        return {}
+    text = clean(footer.get_text(" "))
+    email = EMAIL_RE.search(text)
+    return {
+        "company_phone_number": extract_phone(text),
+        "company_email_id": email.group(0) if email else "",
+        "company_location_address": extract_footer_address(text, company_name),
+    }
 
 
 def next_data_company(soup: BeautifulSoup) -> dict[str, str]:
@@ -136,14 +202,14 @@ def next_data_company(soup: BeautifulSoup) -> dict[str, str]:
 def extract_product(page_url: str, soup: BeautifulSoup) -> dict[str, str]:
     record = empty_record(page_url)
     objects = json_ld(soup)
-    product = first_object(objects, ("Product",))
+    product = first_object(objects, PRODUCT_TYPES)
     business = first_object(objects, ("Organization", "LocalBusiness", "MedicalOrganization"))
     brand = product.get("brand", {})
     manufacturer = product.get("manufacturer", {})
     record["machine_product_name"] = clean(product.get("name")) or clean(soup.find("h1").get_text(" ") if soup.find("h1") else "")
     record["manufacturer_name"] = clean(manufacturer.get("name") if isinstance(manufacturer, dict) else manufacturer)
     record["company_name"] = clean(business.get("name"))
-    record["company_phone_number"] = clean(business.get("telephone")) or labeled_text(soup, ("Phone", "Telephone", "Mobile", "Contact Number"))
+    record["company_phone_number"] = organization_phone(business) or labeled_text(soup, ("Phone", "Telephone", "Mobile", "Contact Number"))
     record["company_email_id"] = clean(business.get("email")) or labeled_text(soup, ("Email", "Email ID", "Email Id"))
     record["company_location_address"] = address_text(business.get("address")) or labeled_text(soup, ("Address", "Location"))
     record["company_profile_description"] = clean(business.get("description")) or clean(product.get("description"))
@@ -152,6 +218,9 @@ def extract_product(page_url: str, soup: BeautifulSoup) -> dict[str, str]:
     brochures = links_matching(soup, page_url, ("brochure", ".pdf"))
     record["product_brochure_link"] = " | ".join(brochures)
     for field, value in next_data_company(soup).items():
+        if value and not record[field]:
+            record[field] = value
+    for field, value in footer_contact(soup, record["company_name"]).items():
         if value and not record[field]:
             record[field] = value
     return record

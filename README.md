@@ -51,6 +51,37 @@ py medical_equipment_scraper.py `
 
 This writes `source_01.json` through `source_05.json`. Marketplace results are supporting sources only; for verified manufacturer phone, email, address, importer, and brochure values, add the official manufacturer or Indian distributor product URL as another input. HTTP failures are retained in each file's `errors` array. Use `--timeout` to bound slow or blocked sources.
 
+## Indian manufacturer sites
+
+The same script also scrapes manufacturers' own sites directly, which state phone, email, and address themselves (via schema.org data or the page footer) rather than gating them behind a marketplace form:
+
+```powershell
+py medical_equipment_scraper.py `
+	"https://www.trivitron.com/products/in-vitro-diagnostics/clia" `
+	"https://www.trivitron.com/products/in-vitro-diagnostics/clinical-chemistry" `
+	"https://www.trivitron.com/products/in-vitro-diagnostics/elisa" `
+	"https://www.trivitron.com/products/in-vitro-diagnostics/genomics-ngs" `
+	"https://www.trivitron.com/products/in-vitro-diagnostics/hematology" `
+	"https://www.trivitron.com/products/in-vitro-diagnostics/histopathology" `
+	"https://www.trivitron.com/products/in-vitro-diagnostics/hplc" `
+	"https://www.trivitron.com/products/in-vitro-diagnostics/molecular-diagnostics" `
+	"https://www.trivitron.com/products/in-vitro-diagnostics/point-of-care-test" `
+	"https://accurex.net/" `
+	"https://accurex.net/product-categories/" `
+	"https://biosystems.in/clinical-analysis/" `
+	--output-dir source_outputs_manufacturers --limit 100
+```
+
+This writes `source_01.json` through `source_12.json` into `source_outputs_manufacturers/`, covering three Indian in-vitro-diagnostics manufacturers:
+
+| Manufacturer | Website | Products found |
+| --- | --- | --- |
+| Trivitron Healthcare | trivitron.com | 71 |
+| Accurex Biomedical | accurex.net | 10 |
+| BioSystems Diagnostics (Trivitron/BioSystems SA joint venture) | biosystems.in | 15 |
+
+Candidates checked but not included: **Coral Clinical Systems** (coralclinicalsystems.com) has no structured product data and its product names/labels sit in generic HTML the scraper can't reliably tell apart from navigation text, so scraping it produced mislabeled records; it needs bespoke per-site extraction, not attempted here. **Transasia Bio-Medicals / Erba Mannheim** (transasia.co.in) and **Agappe Diagnostics** (agappe.com) load their product listings via JavaScript, so static requests return no product links; they would need Playwright rendering. **Robonik India** has no resolvable standalone website.
+
 ## TradeIndia clinical analyzers
 
 Scrape the supplied TradeIndia clinical-analyzer search results, including the Kanad product URL, into the same 21-field JSON and Excel schema:
