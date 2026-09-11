@@ -84,6 +84,25 @@ def text_after_label(soup: BeautifulSoup, labels: tuple[str, ...]) -> str:
     return ""
 
 
+def next_data_company(soup: BeautifulSoup) -> dict[str, str]:
+    """Read seller details TradeIndia embeds as page state (__NEXT_DATA__) rather than visible text."""
+    script = soup.find("script", id="__NEXT_DATA__", type="application/json")
+    if not script or not script.string:
+        return {}
+    try:
+        data = json.loads(script.string)
+        details = data["props"]["pageProps"]["initialState"]["product"]["PDP_page"]["PDP_page_res"]["company_details"]
+    except (json.JSONDecodeError, KeyError, TypeError):
+        return {}
+    profile_html = details.get("company_details") or ""
+    return {
+        "company_name": clean_text(str(details.get("co_name") or "")),
+        "company_profile": clean_text(BeautifulSoup(profile_html, "html.parser").get_text(" ")),
+        "company_address": clean_text(str(details.get("address") or "")),
+        "website": urljoin("https://www.tradeindia.com", details.get("profile_url") or ""),
+    }
+
+
 def company_profile(soup: BeautifulSoup, product: dict[str, Any], page_url: str) -> dict[str, str]:
     seller = product.get("seller", {})
     seller_name = seller.get("name", "") if isinstance(seller, dict) else str(seller)
@@ -95,7 +114,7 @@ def company_profile(soup: BeautifulSoup, product: dict[str, Any], page_url: str)
     email = text_after_label(soup, ("Email", "Email Id"))
     website = text_after_label(soup, ("Website",))
     address = text_after_label(soup, ("Address", "Location"))
-    return {
+    result = {
         "company_name": name,
         "company_profile": profile,
         "phone": phone,
@@ -103,6 +122,10 @@ def company_profile(soup: BeautifulSoup, product: dict[str, Any], page_url: str)
         "website": website or (urljoin(page_url, seller.get("url", "")) if isinstance(seller, dict) else ""),
         "company_address": address,
     }
+    for field, value in next_data_company(soup).items():
+        if value and not result[field]:
+            result[field] = value
+    return result
 
 
 def related_products(soup: BeautifulSoup, page_url: str) -> list[dict[str, str]]:
