@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import html
 import json
 import re
 import time
@@ -28,7 +29,11 @@ ADDRESS_LABELS = ("Corporate Office", "Registered Office", "Regd. Office", "Regd
 
 
 def clean(value: Any) -> str:
-    return re.sub(r"\s+", " ", str(value or "")).strip()
+    text = str(value or "")
+    # Some sites double-escape entities in JSON-LD (e.g. "&amp;amp;"), so unescape until stable.
+    while (unescaped := html.unescape(text)) != text:
+        text = unescaped
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def canonical(url: str) -> str:
@@ -100,17 +105,28 @@ def links_matching(soup: BeautifulSoup, page_url: str, words: tuple[str, ...]) -
 
 
 PRODUCT_PATH_HINTS = ("/products/", "/product/", "/prod/", "/instrument/", "/instruments/", "/item/")
+BARE_INDEX_SEGMENTS = {hint.strip("/") for hint in PRODUCT_PATH_HINTS}
+
+
+def path_segments(url: str) -> list[str]:
+    return [segment for segment in urlsplit(url).path.lower().split("/") if segment]
 
 
 def product_links(soup: BeautifulSoup, page_url: str) -> list[str]:
     base = urlsplit(page_url).netloc
+    page_segments = path_segments(page_url)
     links = []
     for link in soup.find_all("a", href=True):
         href = urljoin(page_url, link["href"]).split("#", 1)[0]
         parsed = urlsplit(href)
         label = clean(link.get_text(" "))
         product_path = any(hint in parsed.path.lower() for hint in PRODUCT_PATH_HINTS)
-        if parsed.netloc == base and product_path and label:
+        segments = path_segments(href)
+        # Breadcrumb/parent links (e.g. /products/ivd from /products/ivd/clia) and bare
+        # index pages (e.g. /products) are listings, not products.
+        is_ancestor = segments == page_segments[:len(segments)]
+        is_bare_index = bool(segments) and segments[-1] in BARE_INDEX_SEGMENTS
+        if parsed.netloc == base and product_path and label and not is_ancestor and not is_bare_index:
             links.append(href)
     return list(dict.fromkeys(links))
 

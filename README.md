@@ -76,11 +76,21 @@ This writes `source_01.json` through `source_12.json` into `source_outputs_manuf
 
 | Manufacturer | Website | Products found |
 | --- | --- | --- |
-| Trivitron Healthcare | trivitron.com | 71 |
-| Accurex Biomedical | accurex.net | 10 |
+| Trivitron Healthcare | trivitron.com | 62 |
+| Accurex Biomedical | accurex.net | 8 |
 | BioSystems Diagnostics (Trivitron/BioSystems SA joint venture) | biosystems.in | 15 |
 
 Candidates checked but not included: **Coral Clinical Systems** (coralclinicalsystems.com) has no structured product data and its product names/labels sit in generic HTML the scraper can't reliably tell apart from navigation text, so scraping it produced mislabeled records; it needs bespoke per-site extraction, not attempted here. **Transasia Bio-Medicals / Erba Mannheim** (transasia.co.in) and **Agappe Diagnostics** (agappe.com) load their product listings via JavaScript, so static requests return no product links; they would need Playwright rendering. **Robonik India** has no resolvable standalone website.
+
+## Combined output (all sources in one file)
+
+Each scraper above writes its own file with its own field names. To get every product from every source in one place, with one set of columns:
+
+```powershell
+py consolidate_products.py
+```
+
+This reads `products.json`, `tradeindia_products.json`, `tradeindia_kanad.json`, `standard-f200.json`, `source_outputs/`, and `source_outputs_manufacturers/`, maps them onto a single schema, removes duplicates, and writes **`all_products.json`** and **`all_products.xlsx`**. The `data_source` column says which scrape each row came from. Re-run it after any scraper run to refresh the combined file.
 
 ## TradeIndia clinical analyzers
 
